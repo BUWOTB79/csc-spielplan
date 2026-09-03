@@ -1,0 +1,43 @@
+name: Spielplan aktualisieren
+
+on:
+  schedule:
+    # Jeden Tag um 5:30 Uhr deutscher Zeit (Winterzeit) bzw. 6:30 (Sommerzeit).
+    - cron: '30 4 * * *'
+  # Erlaubt zusaetzlich den Start von Hand ueber den Knopf "Run workflow".
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aktualisieren:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Dateien holen
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Zusatzpakete installieren
+        run: pip install requests beautifulsoup4
+
+      - name: Spielplan abrufen
+        run: python spielplan.py
+        continue-on-error: true
+
+      - name: Aenderungen speichern
+        run: |
+          git config user.name "Spielplan-Roboter"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Keine Aenderungen."
+          else
+            git commit -m "Spielplan aktualisiert: $(date '+%d.%m.%Y %H:%M')"
+            git push
+          fi
