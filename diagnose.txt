@@ -1,0 +1,72 @@
+Lauf am 03.09.2026 23:53
+
+Mannschaft: E-Jugend
+  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/02GNQ1A98K000000VS5489B2VULC3I30
+  9 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/02GNQ1A98K000000VS5489B2VULC3I30
+  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/02GNQ1A98K000000VS5489B2VULC3I30
+
+Mannschaft: D-Jugend
+  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/02EO22JI3S000000VS5489B2VSAS84KM
+  10 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/02EO22JI3S000000VS5489B2VSAS84KM
+  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/02EO22JI3S000000VS5489B2VSAS84KM
+
+Mannschaft: D-Jugend 7er
+  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
+  0 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
+  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
+
+Insgesamt 49 verschiedene Spiele.
+Lade Spielstaetten ...
+Spielstaette gefunden bei 49 von 49 Spielen.
+Datei kalender.ics geschrieben (49 Termine).
+
+Gefundene Termine:
+09.05.2026 12:30  E-Jugend       CSC Paderborn - TuS Egge Schwaney
+26.05.2026 17:30  E-Jugend       SV RW Haaren - CSC Paderborn
+30.05.2026 10:00  E-Jugend       TuS Sennelager - CSC Paderborn
+02.06.2026 17:30  E-Jugend       CSC Paderborn - SF BW Paderborn
+07.06.2026 16:45  D-Jugend       SC GW Espeln - CSC Paderborn
+07.06.2026 17:15  D-Jugend       CSC Paderborn - FC Hövelriege
+08.06.2026 17:30  D-Jugend       SF BW Paderborn II - CSC Paderborn
+13.06.2026 11:00  E-Jugend       SV Heide-Paderborn II - CSC Paderborn
+13.06.2026 11:00  D-Jugend       JSG Schlangen-Oesterholz-Kohlstädt - CSC Paderborn
+20.06.2026 10:00  D-Jugend       CSC Paderborn - TV 1875 Paderborn
+04.07.2026 09:43  E-Jugend       CSC Paderborn - SV 21 Büren
+04.07.2026 10:09  E-Jugend       SV Marienloh - CSC Paderborn
+04.07.2026 10:35  E-Jugend       SV 03 Geseke I - CSC Paderborn
+04.07.2026 11:14  E-Jugend       CSC Paderborn - VfB 1910 Salzkotten
+12.07.2026 12:14  D-Jugend       CSC Paderborn - TuS Sennelager II
+12.07.2026 12:42  D-Jugend       CSC Paderborn - TSV Wewer III
+12.07.2026 13:10  D-Jugend       VfB 1910 Salzkotten III - CSC Paderborn
+12.07.2026 13:37  D-Jugend       CSC Paderborn - SV Marienloh
+12.07.2026 14:05  D-Jugend       TuRa Elsen II - CSC Paderborn
+05.09.2026 10:00  D-Jugend       CSC Paderborn - JSG Altenautal-Etteln
+12.09.2026 11:00  D-Jugend       CSC Paderborn - TuS Sennelager
+12.09.2026 14:00  E-Jugend       SF BW Paderborn II - CSC Paderborn
+14.09.2026 17:00  D-Jugend 7er   TuS Sennelager III 7er - CSC Paderborn II 7er
+18.09.2026 17:00  E-Jugend       CSC Paderborn - SC Borchen
+19.09.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - SC Aleviten Paderborn 7er
+19.09.2026 11:30  D-Jugend       SF DJK Mastbruch II - CSC Paderborn
+25.09.2026 18:00  E-Jugend       CSC Paderborn - BV Bad Lippspringe
+26.09.2026 11:00  D-Jugend       CSC Paderborn - Hövelhofer SV
+26.09.2026 13:00  D-Jugend 7er   Hövelhofer SV II 7er - CSC Paderborn II 7er
+02.10.2026 18:30  E-Jugend       TuS Altenbeken - CSC Paderborn
+03.10.2026 11:00  D-Jugend 7er   JSG Boke II 7er - CSC Paderborn II 7er
+03.10.2026 12:00  D-Jugend       CSC Paderborn - Delbrücker SC II
+09.10.2026 18:00  E-Jugend       CSC Paderborn - TV 1875 Paderborn
+10.10.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - JSG Alfen II 7er
+10.10.2026 12:30  D-Jugend       TSV Wewer - CSC Paderborn
+16.10.2026 18:00  E-Jugend       CSC Paderborn - SF BW Paderborn II
+17.10.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - TuS Sennelager III 7er
+17.10.2026 13:00  D-Jugend       TuS Sennelager - CSC Paderborn
+07.11.2026 10:00  E-Jugend       SC Borchen - CSC Paderborn
+07.11.2026 11:00  D-Jugend       CSC Paderborn - SF DJK Mastbruch II
+07.11.2026 13:00  D-Jugend 7er   SC Aleviten Paderborn 7er - CSC Paderborn II 7er
+14.11.2026 10:00  D-Jugend       Hövelhofer SV - CSC Paderborn
+14.11.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - Hövelhofer SV II 7er
+14.11.2026 12:00  E-Jugend       BV Bad Lippspringe - CSC Paderborn
+20.11.2026 18:00  E-Jugend       CSC Paderborn - TuS Altenbeken
+21.11.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - JSG Boke II 7er
+21.11.2026 13:30  D-Jugend       Delbrücker SC II - CSC Paderborn
+28.11.2026 11:00  E-Jugend       TV 1875 Paderborn - CSC Paderborn
+28.11.2026 11:00  D-Jugend 7er   JSG Alfen II 7er - CSC Paderborn II 7er
