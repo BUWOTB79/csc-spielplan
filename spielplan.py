@@ -3,16 +3,17 @@
 """
 CSC Paderborn - Jugendspielplan von FUSSBALL.DE als Kalenderdatei.
 
-Laeuft einmal taeglich bei GitHub, holt die aktuellen Spieltermine der
-drei Jugendmannschaften und schreibt sie in die Datei kalender.ics.
+Fassung 2: FUSSBALL.DE gibt pro Abruf nur die naechsten zehn Spiele heraus.
+Deshalb wird jetzt mehrfach mit unterschiedlichen Zusaetzen abgefragt und
+alles zusammengefuehrt. Vergangene Spiele werden aussortiert.
 
+Laeuft einmal taeglich bei GitHub und schreibt die Datei kalender.ics.
 Bei Problemen: die Datei diagnose.txt im selben Ordner ansehen.
 """
 
 import re
 import sys
 import time
-import hashlib
 import traceback
 from datetime import datetime, timedelta
 
@@ -20,11 +21,8 @@ import requests
 from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------------------
-# EINSTELLUNGEN - hier stehen die drei Mannschaften des CSC Paderborn.
-# Die Team-IDs stammen aus den Links im Spielplan.
+# EINSTELLUNGEN
 # ---------------------------------------------------------------------------
-
-SAISON = "2627"
 
 TEAMS = [
     ("E-Jugend",     "02GNQ1A98K000000VS5489B2VULC3I30"),
@@ -38,9 +36,11 @@ DAUER_MINUTEN = 90
 # Erinnerungen: Vorabend (18 Stunden vorher) und 2 Stunden vorher.
 ERINNERUNGEN = ["-PT18H", "-PT2H"]
 
+# Spiele, die laenger als so viele Tage zurueckliegen, kommen nicht mehr
+# in den Kalender. 1 = nur das Spiel von gestern bleibt sichtbar.
+RUECKBLICK_TAGE = 1
+
 # Spielstaette von der jeweiligen Spielseite nachladen.
-# Kostet pro Spiel einen zusaetzlichen Aufruf. Auf False setzen, falls es
-# zu langsam wird oder Probleme macht.
 SPIELSTAETTE_LADEN = True
 
 AUSGABE_DATEI = "kalender.ics"
@@ -67,7 +67,6 @@ def notiz(text):
 # ---------------------------------------------------------------------------
 
 def seite_holen(url, versuche=3):
-    """Ruft eine Seite ab und gibt den HTML-Text zurueck."""
     letzter_fehler = None
     for nummer in range(versuche):
         try:
@@ -83,17 +82,26 @@ def seite_holen(url, versuche=3):
 
 
 def team_seiten(team_id):
-    """Mehrere moegliche Adressen fuer den Spielplan einer Mannschaft.
+    """Verschiedene Abfragen fuer denselben Spielplan.
 
-    FUSSBALL.DE liefert die Spiele teils ueber eine Nachlade-Adresse
-    (ajax), teils direkt in der Mannschaftsseite. Wir probieren beides.
+    FUSSBALL.DE liefert pro Abruf hoechstens zehn Spiele. Welche Zusaetze
+    fuer weitere Seiten funktionieren, ist nicht dokumentiert - deshalb
+    probieren wir mehrere Schreibweisen durch. Was doppelt zurueckkommt,
+    wird spaeter ohnehin nur einmal gezaehlt.
     """
-    return [
-        "https://www.fussball.de/ajax.team.next.games/-/team-id/%s" % team_id,
-        "https://www.fussball.de/ajax.team.prev.games/-/team-id/%s" % team_id,
-        "https://www.fussball.de/mannschaft/-/-/saison/%s/team-id/%s"
-        % (SAISON, team_id),
-    ]
+    basis = "https://www.fussball.de/ajax.team.next.games/-/"
+    adressen = [basis + "team-id/%s" % team_id]
+
+    # Versuch, mehr als zehn Spiele auf einmal zu bekommen
+    for anzahl in (30, 50):
+        adressen.append(basis + "max/%d/team-id/%s" % (anzahl, team_id))
+
+    # Versuch, seitenweise weiterzublaettern
+    for start in (10, 20, 30, 40):
+        adressen.append(basis + "offset/%d/team-id/%s" % (start, team_id))
+        adressen.append(basis + "max/10/offset/%d/team-id/%s" % (start, team_id))
+
+    return adressen
 
 
 # ---------------------------------------------------------------------------
@@ -110,12 +118,6 @@ def text_von(element):
 
 
 def spiele_auslesen(html, mannschaft):
-    """Sucht im HTML nach Spielterminen.
-
-    Vorgehen: Wir gehen die Tabellenzeilen durch. Eine Zeile mit Datum und
-    Uhrzeit merkt sich den Termin, die darauf folgende Zeile mit einem Link
-    auf ein Spiel liefert die Begegnung.
-    """
     suppe = BeautifulSoup(html, "html.parser")
     gefunden = []
     aktuelles_datum = None
@@ -129,20 +131,16 @@ def spiele_auslesen(html, mannschaft):
         treffer_zeit = ZEIT_MUSTER.search(inhalt)
         hat_spiel_link = zeile.find("a", href=SPIEL_MUSTER) is not None
 
-        # Kopfzeile mit Datum und Uhrzeit
         if treffer_datum and not hat_spiel_link:
             tag, monat, jahr = (int(x) for x in treffer_datum.groups())
             aktuelles_datum = (jahr, monat, tag)
-            if treffer_zeit:
-                aktuelle_zeit = tuple(int(x) for x in treffer_zeit.groups())
-            else:
-                aktuelle_zeit = None
+            aktuelle_zeit = (tuple(int(x) for x in treffer_zeit.groups())
+                             if treffer_zeit else None)
             teile = [t.strip() for t in inhalt.split("|")]
             if len(teile) > 1:
                 aktueller_wettbewerb = teile[1]
             continue
 
-        # Zeile mit der eigentlichen Begegnung
         if not hat_spiel_link:
             continue
 
@@ -152,7 +150,6 @@ def spiele_auslesen(html, mannschaft):
             adresse = "https://www.fussball.de" + adresse
         spiel_kennung = SPIEL_MUSTER.search(adresse).group(2)
 
-        # Falls Datum und Zeit in derselben Zeile stehen
         if treffer_datum:
             tag, monat, jahr = (int(x) for x in treffer_datum.groups())
             aktuelles_datum = (jahr, monat, tag)
@@ -168,7 +165,6 @@ def spiele_auslesen(html, mannschaft):
         if len(vereine) >= 2:
             heim, gast = vereine[0], vereine[1]
         else:
-            # Notloesung: Namen aus dem Link ableiten
             teile = SPIEL_MUSTER.search(adresse).group(1).split("-csc-")
             heim = teile[0].replace("-", " ").title()
             gast = ("CSC " + teile[1].replace("-", " ")).title() if len(teile) > 1 else "?"
@@ -197,7 +193,6 @@ ORT_MUSTER = re.compile(
 
 
 def spielstaette_holen(spiel):
-    """Versucht, die Adresse der Spielstaette von der Spielseite zu lesen."""
     html = seite_holen(spiel["adresse"], versuche=2)
     if not html:
         return
@@ -246,7 +241,6 @@ def maskieren(text):
 
 
 def umbrechen(zeile):
-    """Lange Zeilen auf 75 Zeichen umbrechen (Vorgabe des Kalenderformats)."""
     ergebnis, rest = [], ""
     for zeichen in zeile:
         if len((rest + zeichen).encode("utf-8")) > 73:
@@ -323,37 +317,46 @@ def kalender_bauen(spiele):
 
 def main():
     notiz("Lauf am %s" % datetime.now().strftime("%d.%m.%Y %H:%M"))
+    grenze = datetime.now() - timedelta(days=RUECKBLICK_TAGE)
     alle = {}
-    rohdaten = {}
+    verworfen = 0
 
     for mannschaft, team_id in TEAMS:
         notiz("")
         notiz("Mannschaft: %s" % mannschaft)
-        gefunden_gesamt = 0
+        vorher = len(alle)
 
         for url in team_seiten(team_id):
             html = seite_holen(url)
             if not html:
                 continue
-            rohdaten[url] = html[:4000]
             try:
                 spiele = spiele_auslesen(html, mannschaft)
             except Exception:
                 notiz("  Auswertung fehlgeschlagen bei %s" % url)
                 notiz(traceback.format_exc())
                 continue
-            notiz("  %s Spiele aus %s" % (len(spiele), url))
+
+            neu = 0
             for spiel in spiele:
+                if spiel["beginn"] < grenze:
+                    verworfen += 1
+                    continue
+                if spiel["kennung"] not in alle:
+                    neu += 1
                 alle[spiel["kennung"]] = spiel
-            gefunden_gesamt += len(spiele)
+
+            kurz = url.replace("https://www.fussball.de/ajax.team.next.games/-/", "")
+            kurz = kurz.split("/team-id/")[0] or "ohne Zusatz"
+            notiz("  %-22s %2d gelesen, davon %d neu" % (kurz, len(spiele), neu))
             time.sleep(1)
 
-        if gefunden_gesamt == 0:
-            notiz("  ACHTUNG: keine Spiele gefunden.")
+        notiz("  Ergebnis: %d Spiele fuer diese Mannschaft" % (len(alle) - vorher))
 
     spiele = list(alle.values())
     notiz("")
-    notiz("Insgesamt %s verschiedene Spiele." % len(spiele))
+    notiz("Insgesamt %d kommende Spiele (%d vergangene aussortiert)."
+          % (len(spiele), verworfen))
 
     if SPIELSTAETTE_LADEN and spiele:
         notiz("Lade Spielstaetten ...")
@@ -364,23 +367,19 @@ def main():
                 pass
             time.sleep(0.5)
         mit_ort = len([s for s in spiele if s["ort"]])
-        notiz("Spielstaette gefunden bei %s von %s Spielen." % (mit_ort, len(spiele)))
+        notiz("Spielstaette gefunden bei %d von %d Spielen." % (mit_ort, len(spiele)))
 
     if not spiele:
         notiz("")
-        notiz("Es wurden keine Spiele gefunden. Die bestehende Kalenderdatei")
-        notiz("bleibt unveraendert, damit keine Termine verschwinden.")
+        notiz("Keine Spiele gefunden. Die bestehende Kalenderdatei bleibt")
+        notiz("unveraendert, damit keine Termine verschwinden.")
         with open(DIAGNOSE_DATEI, "w", encoding="utf-8") as datei:
             datei.write("\n".join(protokoll))
-            datei.write("\n\n===== ANFANG DER ABGERUFENEN SEITEN =====\n")
-            for url, ausschnitt in rohdaten.items():
-                datei.write("\n----- %s -----\n%s\n" % (url, ausschnitt))
         return 1
 
-    inhalt = kalender_bauen(spiele)
     with open(AUSGABE_DATEI, "w", encoding="utf-8", newline="") as datei:
-        datei.write(inhalt)
-    notiz("Datei %s geschrieben (%s Termine)." % (AUSGABE_DATEI, len(spiele)))
+        datei.write(kalender_bauen(spiele))
+    notiz("Datei %s geschrieben (%d Termine)." % (AUSGABE_DATEI, len(spiele)))
 
     with open(DIAGNOSE_DATEI, "w", encoding="utf-8") as datei:
         datei.write("\n".join(protokoll))
