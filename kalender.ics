@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:csc-031IM050VS000000VS5489BUVVKNMR0J@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260905T100000
 DTEND;TZID=Europe/Berlin:20260905T113000
 SUMMARY:D-Junioren: CSC Paderborn - JSG Altenautal-Etteln
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031MDB3HMC000000VS5489BUVVKNMR0J@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260905T123000
 DTEND;TZID=Europe/Berlin:20260905T140000
 SUMMARY:C-Junioren: CSC Paderborn - TuS Sennelager
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031GJ7GLJG000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260906T153000
 DTEND;TZID=Europe/Berlin:20260906T170000
 SUMMARY:Herren: CSC Paderborn - SF DJK Mastbruch II
@@ -108,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031ILTBV5G000000VS5489BUVVKNMR0J@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260909T180000
 DTEND;TZID=Europe/Berlin:20260909T193000
 SUMMARY:C-Junioren: CSC Paderborn - JSG Scharmede
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031JA0A85S000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260912T110000
 DTEND;TZID=Europe/Berlin:20260912T123000
 SUMMARY:D-Junioren: CSC Paderborn - TuS Sennelager
@@ -162,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031J74VL8O000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260912T130000
 DTEND;TZID=Europe/Berlin:20260912T143000
 SUMMARY:C-Junioren: CSC Paderborn - Delbrücker SC III
@@ -188,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031JH6TT7K000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260912T140000
 DTEND;TZID=Europe/Berlin:20260912T153000
 SUMMARY:E-Junioren: SF BW Paderborn II - CSC Paderborn
@@ -214,2656 +214,2341 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031J6UMVP0000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: CSC Paderborn 9er - SC Grün-Weiß Pa
- derborn II (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-9er-sc-gruen-weiss-paderborn-ii/-/spiel/031J6UMVP0000000VS5489BTVSRD
- 0UH9
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260912T180000
+DTEND;TZID=Europe/Berlin:20260912T193000
+SUMMARY:B-Junioren: CSC Paderborn 9er - SC Grün-Weiß Paderborn II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-9er-sc-gruen-weiss-paderborn-ii/
+ -/spiel/031J6UMVP0000000VS5489BTVSRD0UH9
 URL:https://www.fussball.de/spiel/csc-paderborn-9er-sc-gruen-weiss-paderb
  orn-ii/-/spiel/031J6UMVP0000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
+CATEGORIES:B-Junioren
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 LOCATION:ierung
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - SC Grün-Wei
- ß Paderborn II (Anstoss offen)
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - SC Grün-Weiß Paderborn II
 TRIGGER:-PT18H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - SC Grün-Wei
- ß Paderborn II (Anstoss offen)
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - SC Grün-Weiß Paderborn II
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031GJ7GLF0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SV Heide-Paderborn II - CSC Paderborn (An
- stoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sv-heide-paderborn-ii-csc-paderborn/-/spiel/031GJ7GLF0000000VS
- 5489BTVVG7L386
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260913T120000
+DTEND;TZID=Europe/Berlin:20260913T133000
+SUMMARY:Herren: SV Heide-Paderborn II - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sv-heide-paderborn-ii-csc-paderborn/-/spiel/03
+ 1GJ7GLF0000000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/sv-heide-paderborn-ii-csc-paderborn/-/s
  piel/031GJ7GLF0000000VS5489BTVVG7L386
-CATEGORIES: Herren
+CATEGORIES:Herren
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 LOCATION:ierung
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: Herren: SV Heide-Paderborn II - CSC Paderborn
-  (Anstoss offen)
+DESCRIPTION:Herren: SV Heide-Paderborn II - CSC Paderborn
 TRIGGER:-PT18H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: Herren: SV Heide-Paderborn II - CSC Paderborn
-  (Anstoss offen)
+DESCRIPTION:Herren: SV Heide-Paderborn II - CSC Paderborn
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031HCJV82G000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: Int. FC Paderborn - CSC Paderborn II (Ans
- toss offen)
-DESCRIPTION:Kreisliga C ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/int-fc-pad
- erborn-csc-paderborn-ii/-/spiel/031HCJV82G000000VS5489BTVVG7L386
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260913T150000
+DTEND;TZID=Europe/Berlin:20260913T163000
+SUMMARY:Herren: Int. FC Paderborn - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/int-fc-paderborn-csc-paderborn-ii/-/spiel/031H
+ CJV82G000000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/int-fc-paderborn-csc-paderborn-ii/-/spi
  el/031HCJV82G000000VS5489BTVVG7L386
-CATEGORIES: Herren
+CATEGORIES:Herren
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 LOCATION:ierung
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: Herren: Int. FC Paderborn - CSC Paderborn II 
- (Anstoss offen)
+DESCRIPTION:Herren: Int. FC Paderborn - CSC Paderborn II
 TRIGGER:-PT18H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: Herren: Int. FC Paderborn - CSC Paderborn II 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TT4S000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: CSC Paderborn - SC Borchen (Anstoss o
- ffen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-sc-borchen/-/spiel/031JH6TT4S000000VS5489BTVSRD0
- UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sc-borchen/-/spiel/031JH6
- TT4S000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - SC Borchen (Ansto
- ss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - SC Borchen (Ansto
- ss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UMVN4000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: JSG Anreppen II - CSC Paderborn 9er (
- Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/jsg-anrepp
- en-ii-csc-paderborn-9er/-/spiel/031J6UMVN4000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/jsg-anreppen-ii-csc-paderborn-9er/-/spi
- el/031J6UMVN4000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Anreppen II - CSC Paderborn 9
- er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Anreppen II - CSC Paderborn 9
- er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7B8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn II 7er - SC Aleviten Pa
- derborn 7er (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-7er-sc-aleviten-paderborn-7er/-/spiel/031JA5C
- 7B8000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-sc-aleviten-paderb
- orn-7er/-/spiel/031JA5C7B8000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - SC Alevite
- n Paderborn 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - SC Alevite
- n Paderborn 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A81C000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: SF DJK Mastbruch II - CSC Paderborn (
- Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sf-djk-mas
- tbruch-ii-csc-paderborn/-/spiel/031JA0A81C000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spi
- el/031JA0A81C000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: SF DJK Mastbruch II - CSC Paderbo
- rn (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: SF DJK Mastbruch II - CSC Paderbo
- rn (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VL6C000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: SV Marienloh - CSC Paderborn (Anstoss
-  offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sv-marienl
- oh-csc-paderborn/-/spiel/031J74VL6C000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sv-marienloh-csc-paderborn/-/spiel/031J
- 74VL6C000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SV Marienloh - CSC Paderborn (Ans
- toss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SV Marienloh - CSC Paderborn (Ans
- toss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV7K0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - BV Bad Lippspringe III
-  (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-bv-bad-lippspringe-iii/-/spiel/031HCJV7K00000
- 00VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-bv-bad-lippspringe-iii
- /-/spiel/031HCJV7K0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - BV Bad Lippspringe
-  III (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - BV Bad Lippspringe
-  III (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GKT8000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SG Oberes Almetal 23 (Ans
- toss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sg-oberes-almetal-23/-/spiel/031GJ7GKT8000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sg-oberes-almetal-23/-/sp
- iel/031GJ7GKT8000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SG Oberes Almetal 23 
- (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SG Oberes Almetal 23 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031ILNAAIO000000VS5489BUVVKNMR0J@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: Gewinner aus Spiel 200241002 (PH) - C
- SC Paderborn 9er (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderbor
- n-9er/-/spiel/031ILNAAIO000000VS5489BUVVKNMR0J
-URL:https://www.fussball.de/spiel/csc-paderborn-9er/-/spiel/031ILNAAIO000
- 000VS5489BUVVKNMR0J
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: Gewinner aus Spiel 200241002 (PH)
-  - CSC Paderborn 9er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: Gewinner aus Spiel 200241002 (PH)
-  - CSC Paderborn 9er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TT2O000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: CSC Paderborn - BV Bad Lippspringe (A
- nstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-bv-bad-lippspringe/-/spiel/031JH6TT2O000000VS548
- 9BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-bv-bad-lippspringe/-/spie
- l/031JH6TT2O000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - BV Bad Lippspring
- e (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - BV Bad Lippspring
- e (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A7R8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn - Hövelhofer SV (Ansto
- ss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-hoevelhofer-sv/-/spiel/031JA0A7R8000000VS5489BTV
- SRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-hoevelhofer-sv/-/spiel/03
- 1JA0A7R8000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - Hövelhofer SV (A
- nstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - Hövelhofer SV (A
- nstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VL2K000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: SF BW Paderborn - CSC Paderborn (Anst
- oss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sf-bw-pade
- rborn-csc-paderborn/-/spiel/031J74VL2K000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/0
- 31J74VL2K000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SF BW Paderborn - CSC Paderborn (
- Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SF BW Paderborn - CSC Paderborn (
- Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7A0000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: Hövelhofer SV II 7er - CSC Paderborn
-  II 7er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/hoevelhofe
- r-sv-ii-7er-csc-paderborn-ii-7er/-/spiel/031JA5C7A0000000VS5489BTVSRD0UH
- 9
-URL:https://www.fussball.de/spiel/hoevelhofer-sv-ii-7er-csc-paderborn-ii-
- 7er/-/spiel/031JA5C7A0000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Hövelhofer SV II 7er - CSC Pader
- born II 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Hövelhofer SV II 7er - CSC Pader
- born II 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV7A0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: Türk-Gücü Paderborn II - CSC Paderborn
-  II (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/tuerk-guecue-paderborn-ii-csc-paderborn-ii/-/spiel/031HCJV7A00
- 00000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/tuerk-guecue-paderborn-ii-csc-paderborn
- -ii/-/spiel/031HCJV7A0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Türk-Gücü Paderborn II - CSC Pader
- born II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Türk-Gücü Paderborn II - CSC Pader
- born II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GKMK000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SG Scharmede/​Thüle - CSC Paderborn (A
- nstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sg-scharme
- de-thuele-csc-paderborn/-/spiel/031GJ7GKMK000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sg-scharmede-thuele-csc-paderborn/-/spi
- el/031GJ7GKMK000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Scharmede/​Thüle - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Scharmede/​Thüle - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VL14000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: CSC Paderborn - SC Grün-Weiß Paderb
- orn II (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-sc-gruen-weiss-paderborn-ii/-/spiel/031J74VL1400
- 0000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sc-gruen-weiss-paderborn-
- ii/-/spiel/031J74VL14000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SC Grün-Weiß Pa
- derborn II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SC Grün-Weiß Pa
- derborn II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TT1C000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: TuS Altenbeken - CSC Paderborn (Ansto
- ss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/tus-altenb
- eken-csc-paderborn/-/spiel/031JH6TT1C000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/tus-altenbeken-csc-paderborn/-/spiel/03
- 1JH6TT1C000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: TuS Altenbeken - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: TuS Altenbeken - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C77G000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: JSG Boke II 7er - CSC Paderborn II 7e
- r (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/jsg-boke-i
- i-7er-csc-paderborn-ii-7er/-/spiel/031JA5C77G000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/jsg-boke-ii-7er-csc-paderborn-ii-7er/-/
- spiel/031JA5C77G000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: JSG Boke II 7er - CSC Paderborn I
- I 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: JSG Boke II 7er - CSC Paderborn I
- I 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A7N4000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn - Delbrücker SC II (An
- stoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-delbruecker-sc-ii/-/spiel/031JA0A7N4000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-delbruecker-sc-ii/-/spiel
- /031JA0A7N4000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - Delbrücker SC II
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - Delbrücker SC II
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UMVHS000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: CSC Paderborn 9er - JSG Mastbruch-Sen
- nelager II (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-9er-jsg-mastbruch-sennelager-ii/-/spiel/031J6UMVHS000000VS5489BTVSRD
- 0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-mastbruch-sennela
- ger-ii/-/spiel/031J6UMVHS000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Mastbruch
- -Sennelager II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Mastbruch
- -Sennelager II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV6QC000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: TuRa Elsen II - CSC Paderborn II (Anstoss
-  offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/tura-elsen-ii-csc-paderborn-ii/-/spiel/031HCJV6QC000000VS5489B
- TVVG7L386
-URL:https://www.fussball.de/spiel/tura-elsen-ii-csc-paderborn-ii/-/spiel/
- 031HCJV6QC000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TuRa Elsen II - CSC Paderborn II (Ans
- toss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TuRa Elsen II - CSC Paderborn II (Ans
- toss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GKA4000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SC RW Verne (Anstoss offe
- n)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sc-rw-verne/-/spiel/031GJ7GKA4000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sc-rw-verne/-/spiel/031GJ
- 7GKA4000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SC RW Verne (Anstoss 
- offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SC RW Verne (Anstoss 
- offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TSUK000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: CSC Paderborn - TV 1875 Paderborn (An
- stoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-tv-1875-paderborn/-/spiel/031JH6TSUK000000VS5489
- BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-tv-1875-paderborn/-/spiel
- /031JH6TSUK000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - TV 1875 Paderborn
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - TV 1875 Paderborn
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UMVFG000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: JSG Altenautal-Lichtenau - CSC Paderb
- orn 9er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/jsg-altena
- utal-lichtenau-csc-paderborn-9er/-/spiel/031J6UMVFG000000VS5489BTVSRD0UH
- 9
-URL:https://www.fussball.de/spiel/jsg-altenautal-lichtenau-csc-paderborn-
- 9er/-/spiel/031J6UMVFG000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Altenautal-Lichtenau - CSC Pa
- derborn 9er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Altenautal-Lichtenau - CSC Pa
- derborn 9er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C754000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn II 7er - JSG Alfen II 7
- er (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-7er-jsg-alfen-ii-7er/-/spiel/031JA5C754000000
- VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-alfen-ii-7er/-
- /spiel/031JA5C754000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - JSG Alfen 
- II 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - JSG Alfen 
- II 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A7LO000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: TSV Wewer - CSC Paderborn (Anstoss of
- fen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/tsv-wewer-
- csc-paderborn/-/spiel/031JA0A7LO000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031JA0A
- 7LO000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TSV Wewer - CSC Paderborn (Anstos
- s offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TSV Wewer - CSC Paderborn (Anstos
- s offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VKU0000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: JSG Holsen - CSC Paderborn (Anstoss o
- ffen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/jsg-holsen
- -csc-paderborn/-/spiel/031J74VKU0000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/jsg-holsen-csc-paderborn/-/spiel/031J74
- VKU0000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: JSG Holsen - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: JSG Holsen - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV6JS000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - SC Grün-Weiß Paderbo
- rn (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-sc-gruen-weiss-paderborn/-/spiel/031HCJV6JS00
- 0000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-sc-gruen-weiss-paderbo
- rn/-/spiel/031HCJV6JS000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - SC Grün-Weiß Pad
- erborn (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - SC Grün-Weiß Pad
- erborn (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GK1S000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SC GW Espeln - CSC Paderborn (Anstoss off
- en)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-gw-espe
- ln-csc-paderborn/-/spiel/031GJ7GK1S000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sc-gw-espeln-csc-paderborn/-/spiel/031G
- J7GK1S000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC GW Espeln - CSC Paderborn (Anstoss
-  offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC GW Espeln - CSC Paderborn (Anstoss
-  offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TTK8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: CSC Paderborn - SF BW Paderborn II (A
- nstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-sf-bw-paderborn-ii/-/spiel/031JH6TTK8000000VS548
- 9BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn-ii/-/spie
- l/031JH6TTK8000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - SF BW Paderborn I
- I (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - SF BW Paderborn I
- I (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7OG000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn II 7er - TuS Sennelager
-  III 7er (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-7er-tus-sennelager-iii-7er/-/spiel/031JA5C7OG
- 000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-tus-sennelager-iii
- -7er/-/spiel/031JA5C7OG000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - TuS Sennel
- ager III 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - TuS Sennel
- ager III 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VLL8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: Delbrücker SC III - CSC Paderborn (A
- nstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/delbruecke
- r-sc-iii-csc-paderborn/-/spiel/031J74VLL8000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/delbruecker-sc-iii-csc-paderborn/-/spie
- l/031J74VLL8000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: Delbrücker SC III - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: Delbrücker SC III - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A8TS000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: TuS Sennelager - CSC Paderborn (Ansto
- ss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/tus-sennel
- ager-csc-paderborn/-/spiel/031JA0A8TS000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/tus-sennelager-csc-paderborn/-/spiel/03
- 1JA0A8TS000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TuS Sennelager - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TuS Sennelager - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UN05K000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: SC Grün-Weiß Paderborn II - CSC Pad
- erborn 9er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-gruen-w
- eiss-paderborn-ii-csc-paderborn-9er/-/spiel/031J6UN05K000000VS5489BTVSRD
- 0UH9
-URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderbo
- rn-9er/-/spiel/031J6UN05K000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: SC Grün-Weiß Paderborn II - CSC
-  Paderborn 9er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: SC Grün-Weiß Paderborn II - CSC
-  Paderborn 9er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV6G8000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SF BW Paderborn II - CSC Paderborn II (An
- stoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sf-bw-paderborn-ii-csc-paderborn-ii/-/spiel/031HCJV6G8000000VS
- 5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sf-bw-paderborn-ii-csc-paderborn-ii/-/s
- piel/031HCJV6G8000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF BW Paderborn II - CSC Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF BW Paderborn II - CSC Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GJKG000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SV Schöning - CSC Paderborn (Anstoss off
- en)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sv-schoeni
- ng-csc-paderborn/-/spiel/031GJ7GJKG000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sv-schoening-csc-paderborn/-/spiel/031G
- J7GJKG000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SV Schöning - CSC Paderborn (Anstoss
-  offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SV Schöning - CSC Paderborn (Anstoss
-  offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV638000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - Africa United Football
-  Club (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-africa-united-football-club/-/spiel/031HCJV63
- 8000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-africa-united-football
- -club/-/spiel/031HCJV638000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Africa United Foot
- ball Club (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Africa United Foot
- ball Club (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GJE4000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - TuRa Elsen (Anstoss offen
- )
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-tura-elsen/-/spiel/031GJ7GJE4000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-tura-elsen/-/spiel/031GJ7
- GJE4000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TuRa Elsen (Anstoss o
- ffen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TuRa Elsen (Anstoss o
- ffen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UN03C000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: CSC Paderborn 9er - JSG Anreppen II (
- Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-9er-jsg-anreppen-ii/-/spiel/031J6UN03C000000VS54
- 89BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-anreppen-ii/-/spi
- el/031J6UN03C000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Anreppen 
- II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Anreppen 
- II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TTG8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: SC Borchen - CSC Paderborn (Anstoss o
- ffen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sc-borchen-csc-paderborn/-/spiel/031JH6TTG8000000VS5489BTVSRD0
- UH9
-URL:https://www.fussball.de/spiel/sc-borchen-csc-paderborn/-/spiel/031JH6
- TTG8000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: SC Borchen - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: SC Borchen - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A8PO000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn - SF DJK Mastbruch II (
- Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sf-djk-mastbruch-ii/-/spiel/031JA0A8PO000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sf-djk-mastbruch-ii/-/spi
- el/031JA0A8PO000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - SF DJK Mastbruch 
- II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - SF DJK Mastbruch 
- II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7LG000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: SC Aleviten Paderborn 7er - CSC Pader
- born II 7er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-alevite
- n-paderborn-7er-csc-paderborn-ii-7er/-/spiel/031JA5C7LG000000VS5489BTVSR
- D0UH9
-URL:https://www.fussball.de/spiel/sc-aleviten-paderborn-7er-csc-paderborn
- -ii-7er/-/spiel/031JA5C7LG000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: SC Aleviten Paderborn 7er - CSC P
- aderborn II 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: SC Aleviten Paderborn 7er - CSC P
- aderborn II 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VLJG000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: CSC Paderborn - SV Marienloh (Anstoss
-  offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sv-marienloh/-/spiel/031J74VLJG000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sv-marienloh/-/spiel/031J
- 74VLJG000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SV Marienloh (Ans
- toss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SV Marienloh (Ans
- toss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJV5TO000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: Suryoye Paderborn II - CSC Paderborn II (
- Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/suryoye-paderborn-ii-csc-paderborn-ii/-/spiel/031HCJV5TO000000
- VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/suryoye-paderborn-ii-csc-paderborn-ii/-
- /spiel/031HCJV5TO000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Suryoye Paderborn II - CSC Paderborn 
- II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Suryoye Paderborn II - CSC Paderborn 
- II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GJAG000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SF BW Paderborn - CSC Paderborn (Anstoss 
- offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sf-bw-pade
- rborn-csc-paderborn/-/spiel/031GJ7GJAG000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/0
- 31GJ7GJAG000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF BW Paderborn - CSC Paderborn (Anst
- oss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF BW Paderborn - CSC Paderborn (Anst
- oss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A8K4000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: Hövelhofer SV - CSC Paderborn (Ansto
- ss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/hoevelhofe
- r-sv-csc-paderborn/-/spiel/031JA0A8K4000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/hoevelhofer-sv-csc-paderborn/-/spiel/03
- 1JA0A8K4000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Hövelhofer SV - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Hövelhofer SV - CSC Paderborn (A
- nstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7K0000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn II 7er - Hövelhofer SV
-  II 7er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-ii-7er-hoevelhofer-sv-ii-7er/-/spiel/031JA5C7K0000000VS5489BTVSRD0UH
- 9
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-hoevelhofer-sv-ii-
- 7er/-/spiel/031JA5C7K0000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - Hövelhofe
- r SV II 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - Hövelhofe
- r SV II 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TTDK000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: BV Bad Lippspringe - CSC Paderborn (A
- nstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/bv-bad-lip
- pspringe-csc-paderborn/-/spiel/031JH6TTDK000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/bv-bad-lippspringe-csc-paderborn/-/spie
- l/031JH6TTDK000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: BV Bad Lippspringe - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: BV Bad Lippspringe - CSC Paderbor
- n (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VLF8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: CSC Paderborn - SF BW Paderborn (Anst
- oss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sf-bw-paderborn/-/spiel/031J74VLF8000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/0
- 31J74VLF8000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SF BW Paderborn (
- Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - SF BW Paderborn (
- Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVGSG000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SG Lichtenau/​Kleinenberg - CSC Paderbo
- rn II (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sg-lichtenau-kleinenberg-csc-paderborn-ii/-/spiel/031HCJVGSG00
- 0000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sg-lichtenau-kleinenberg-csc-paderborn-
- ii/-/spiel/031HCJVGSG000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Lichtenau/​Kleinenberg - CSC Pad
- erborn II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Lichtenau/​Kleinenberg - CSC Pad
- erborn II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GIU8000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - TSV Wewer (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-tsv-wewer/-/spiel/031GJ7GIU8000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031GJ7G
- IU8000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TSV Wewer (Anstoss of
- fen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TSV Wewer (Anstoss of
- fen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TTBS000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: CSC Paderborn - TuS Altenbeken (Ansto
- ss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-tus-altenbeken/-/spiel/031JH6TTBS000000VS5489BTV
- SRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-tus-altenbeken/-/spiel/03
- 1JH6TTBS000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - TuS Altenbeken (A
- nstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: CSC Paderborn - TuS Altenbeken (A
- nstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7H8000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn II 7er - JSG Boke II 7e
- r (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-7er-jsg-boke-ii-7er/-/spiel/031JA5C7H8000000V
- S5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-boke-ii-7er/-/
- spiel/031JA5C7H8000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - JSG Boke I
- I 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn II 7er - JSG Boke I
- I 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A8FS000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: Delbrücker SC II - CSC Paderborn (An
- stoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/delbruecke
- r-sc-ii-csc-paderborn/-/spiel/031JA0A8FS000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/delbruecker-sc-ii-csc-paderborn/-/spiel
- /031JA0A8FS000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Delbrücker SC II - CSC Paderborn
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: Delbrücker SC II - CSC Paderborn
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VLDO000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: SC Grün-Weiß Paderborn II - CSC Pad
- erborn (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-gruen-w
- eiss-paderborn-ii-csc-paderborn/-/spiel/031J74VLDO000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderbo
- rn/-/spiel/031J74VLDO000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SC Grün-Weiß Paderborn II - CSC
-  Paderborn (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: SC Grün-Weiß Paderborn II - CSC
-  Paderborn (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UMVTK000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: JSG Mastbruch-Sennelager II - CSC Pad
- erborn 9er (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/jsg-mastbr
- uch-sennelager-ii-csc-paderborn-9er/-/spiel/031J6UMVTK000000VS5489BTVSRD
- 0UH9
-URL:https://www.fussball.de/spiel/jsg-mastbruch-sennelager-ii-csc-paderbo
- rn-9er/-/spiel/031J6UMVTK000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Mastbruch-Sennelager II - CSC
-  Paderborn 9er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: JSG Mastbruch-Sennelager II - CSC
-  Paderborn 9er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA5C7F0000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: JSG Alfen II 7er - CSC Paderborn II 7
- er (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/jsg-alfen-ii-7er-csc-paderborn-ii-7er/-/spiel/031JA5C7F0000000
- VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/jsg-alfen-ii-7er-csc-paderborn-ii-7er/-
- /spiel/031JA5C7F0000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: JSG Alfen II 7er - CSC Paderborn 
- II 7er (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: JSG Alfen II 7er - CSC Paderborn 
- II 7er (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JH6TT90000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: E-Junioren: TV 1875 Paderborn - CSC Paderborn (An
- stoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/tv-1875-pa
- derborn-csc-paderborn/-/spiel/031JH6TT90000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/tv-1875-paderborn-csc-paderborn/-/spiel
- /031JH6TT90000000VS5489BTVSRD0UH9
-CATEGORIES: E-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: TV 1875 Paderborn - CSC Paderborn
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: E-Junioren: TV 1875 Paderborn - CSC Paderborn
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031JA0A8EC000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: D-Junioren: CSC Paderborn - TSV Wewer (Anstoss of
- fen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-tsv-wewer/-/spiel/031JA0A8EC000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031JA0A
- 8EC000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - TSV Wewer (Anstos
- s offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: D-Junioren: CSC Paderborn - TSV Wewer (Anstos
- s offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J74VLBC000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: C-Junioren: CSC Paderborn - JSG Holsen (Anstoss o
- ffen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-jsg-holsen/-/spiel/031J74VLBC000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/csc-paderborn-jsg-holsen/-/spiel/031J74
- VLBC000000VS5489BTVSRD0UH9
-CATEGORIES: C-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - JSG Holsen (Ansto
- ss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: C-Junioren: CSC Paderborn - JSG Holsen (Ansto
- ss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031J6UMVRC000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: B-Junioren: CSC Paderborn 9er - JSG Altenautal-Li
- chtenau (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-9er-jsg-altenautal-lichtenau/-/spiel/031J6UMVRC000000VS5489BTVSRD0UH
- 9
-URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-altenautal-lichte
- nau/-/spiel/031J6UMVRC000000VS5489BTVSRD0UH9
-CATEGORIES: B-Junioren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Altenauta
- l-Lichtenau (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: B-Junioren: CSC Paderborn 9er - JSG Altenauta
- l-Lichtenau (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GIQ0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: FC Kastrioti Stukenbrock - CSC Paderborn 
- (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/fc-kastrioti-stukenbrock-csc-paderborn/-/spiel/031GJ7GIQ000000
- 0VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/fc-kastrioti-stukenbrock-csc-paderborn/
- -/spiel/031GJ7GIQ0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: FC Kastrioti Stukenbrock - CSC Paderb
- orn (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: FC Kastrioti Stukenbrock - CSC Paderb
- orn (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GUPK000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: Suryoye Paderborn - CSC Paderborn (Anstos
- s offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/suryoye-paderborn-csc-paderborn/-/spiel/031GJ7GUPK000000VS5489
- BTVVG7L386
-URL:https://www.fussball.de/spiel/suryoye-paderborn-csc-paderborn/-/spiel
- /031GJ7GUPK000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Suryoye Paderborn - CSC Paderborn (An
- stoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Suryoye Paderborn - CSC Paderborn (An
- stoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GTIS000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SCV Neuenbeken - CSC Paderborn (Anstoss o
- ffen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/scv-neuenbeken-csc-paderborn/-/spiel/031GJ7GTIS000000VS5489BTV
- VG7L386
-URL:https://www.fussball.de/spiel/scv-neuenbeken-csc-paderborn/-/spiel/03
- 1GJ7GTIS000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SCV Neuenbeken - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SCV Neuenbeken - CSC Paderborn (Ansto
- ss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVG6S000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - TV 1875 Paderborn (Ans
- toss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-tv-1875-paderborn/-/spiel/031HCJVG6S000000VS5
- 489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-tv-1875-paderborn/-/sp
- iel/031HCJVG6S000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - TV 1875 Paderborn 
- (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - TV 1875 Paderborn 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GSUK000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - TuS Egge Schwaney (Anstos
- s offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-tus-egge-schwaney/-/spiel/031GJ7GSUK000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-tus-egge-schwaney/-/spiel
- /031GJ7GSUK000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TuS Egge Schwaney (An
- stoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - TuS Egge Schwaney (An
- stoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GSE8000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SF DJK Mastbruch II - CSC Paderborn (Anst
- oss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spiel/031GJ7GSE8000000VS54
- 89BTVVG7L386
-URL:https://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spi
- el/031GJ7GSE8000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF DJK Mastbruch II - CSC Paderborn (
- Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SF DJK Mastbruch II - CSC Paderborn (
- Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVETC000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - Star FC Paderborn (Ans
- toss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-star-fc-paderborn/-/spiel/031HCJVETC000000VS5
- 489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-star-fc-paderborn/-/sp
- iel/031HCJVETC000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Star FC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Star FC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GS7G000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SV Heide-Paderborn II (An
- stoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sv-heide-paderborn-ii/-/spiel/031GJ7GS7G000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sv-heide-paderborn-ii/-/s
- piel/031GJ7GS7G000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV Heide-Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV Heide-Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GU90000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SV 21 Brenken (Anstoss of
- fen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-sv-21-brenken/-/spiel/031GJ7GU90000000VS5489BTVV
- G7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sv-21-brenken/-/spiel/031
- GJ7GU90000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV 21 Brenken (Anstos
- s offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV 21 Brenken (Anstos
- s offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GRBS000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SG Oberes Almetal 23 - CSC Paderborn (Ans
- toss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/sg-oberes-almetal-23-csc-paderborn/-/spiel/031GJ7GRBS000000VS5
- 489BTVVG7L386
-URL:https://www.fussball.de/spiel/sg-oberes-almetal-23-csc-paderborn/-/sp
- iel/031GJ7GRBS000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Oberes Almetal 23 - CSC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SG Oberes Almetal 23 - CSC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVE70000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - Int. FC Paderborn (Ans
- toss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-int-fc-paderborn/-/spiel/031HCJVE70000000VS54
- 89BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-int-fc-paderborn/-/spi
- el/031HCJVE70000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Int. FC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Int. FC Paderborn 
- (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GR1O000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SG Scharmede/​Thüle (A
- nstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sg-scharmede-thuele/-/spiel/031GJ7GR1O000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sg-scharmede-thuele/-/spi
- el/031GJ7GR1O000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SG Scharmede/​Thül
- e (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SG Scharmede/​Thül
- e (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVD9O000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: BV Bad Lippspringe III - CSC Paderborn II
-  (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/bv-bad-lippspringe-iii-csc-paderborn-ii/-/spiel/031HCJVD9O0000
- 00VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/bv-bad-lippspringe-iii-csc-paderborn-ii
- /-/spiel/031HCJVD9O000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: BV Bad Lippspringe III - CSC Paderbor
- n II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: BV Bad Lippspringe III - CSC Paderbor
- n II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GQC0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SC RW Verne - CSC Paderborn (Anstoss offe
- n)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-rw-vern
- e-csc-paderborn/-/spiel/031GJ7GQC0000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sc-rw-verne-csc-paderborn/-/spiel/031GJ
- 7GQC0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC RW Verne - CSC Paderborn (Anstoss 
- offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC RW Verne - CSC Paderborn (Anstoss 
- offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVCRS000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - Türk-Gücü Paderborn
-  II (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-tuerk-guecue-paderborn-ii/-/spiel/031HCJVCRS0
- 00000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-tuerk-guecue-paderborn
- -ii/-/spiel/031HCJVCRS000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Türk-Gücü Pader
- born II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Türk-Gücü Pader
- born II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GPU0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SC GW Espeln (Anstoss off
- en)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sc-gw-espeln/-/spiel/031GJ7GPU0000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sc-gw-espeln/-/spiel/031G
- J7GPU0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SC GW Espeln (Anstoss
-  offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SC GW Espeln (Anstoss
-  offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVC4C000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - TuRa Elsen II (Anstoss
-  offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-tura-elsen-ii/-/spiel/031HCJVC4C000000VS5489B
- TVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-tura-elsen-ii/-/spiel/
- 031HCJVC4C000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - TuRa Elsen II (Ans
- toss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - TuRa Elsen II (Ans
- toss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GP9G000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SV Schöning (Anstoss off
- en)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sv-schoening/-/spiel/031GJ7GP9G000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sv-schoening/-/spiel/031G
- J7GP9G000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV Schöning (Anstoss
-  offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SV Schöning (Anstoss
-  offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GOU0000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: TuRa Elsen - CSC Paderborn (Anstoss offen
- )
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/tura-elsen-csc-paderborn/-/spiel/031GJ7GOU0000000VS5489BTVVG7L
- 386
-URL:https://www.fussball.de/spiel/tura-elsen-csc-paderborn/-/spiel/031GJ7
- GOU0000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TuRa Elsen - CSC Paderborn (Anstoss o
- ffen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TuRa Elsen - CSC Paderborn (Anstoss o
- ffen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVBN4000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: SC Grün-Weiß Paderborn - CSC Paderborn 
- II (Anstoss offen)
-DESCRIPTION:Kreisliga C ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/sc-gruen-w
- eiss-paderborn-csc-paderborn-ii/-/spiel/031HCJVBN4000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-csc-paderborn-
- ii/-/spiel/031HCJVBN4000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC Grün-Weiß Paderborn - CSC Paderb
- orn II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: SC Grün-Weiß Paderborn - CSC Paderb
- orn II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVBFK000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - SF BW Paderborn II (An
- stoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-sf-bw-paderborn-ii/-/spiel/031HCJVBFK000000VS
- 5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-sf-bw-paderborn-ii/-/s
- piel/031HCJVBFK000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - SF BW Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - SF BW Paderborn II
-  (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GONC000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - SF BW Paderborn (Anstoss 
- offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-sf-bw-paderborn/-/spiel/031GJ7GONC000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/0
- 31GJ7GONC000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SF BW Paderborn (Anst
- oss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - SF BW Paderborn (Anst
- oss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVAN4000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: Africa United Football Club - CSC Paderbo
- rn II (Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/africa-united-football-club-csc-paderborn-ii/-/spiel/031HCJVAN
- 4000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/africa-united-football-club-csc-paderbo
- rn-ii/-/spiel/031HCJVAN4000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Africa United Football Club - CSC Pad
- erborn II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: Africa United Football Club - CSC Pad
- erborn II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GNVC000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: TSV Wewer - CSC Paderborn (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/tsv-wewer-
- csc-paderborn/-/spiel/031GJ7GNVC000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031GJ7G
- NVC000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TSV Wewer - CSC Paderborn (Anstoss of
- fen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: TSV Wewer - CSC Paderborn (Anstoss of
- fen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031HCJVACS000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn II - Suryoye Paderborn II (
- Anstoss offen)
-DESCRIPTION: \nAnstosszeit steht noch ni
- cht fest.\nSpielstaette: ierung\nStand FUSSBALL.DE: https://www.fussball
- .de/spiel/csc-paderborn-ii-suryoye-paderborn-ii/-/spiel/031HCJVACS000000
- VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-ii-suryoye-paderborn-ii/-
- /spiel/031HCJVACS000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Suryoye Paderborn 
- II (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn II - Suryoye Paderborn 
- II (Anstoss offen)
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:csc-031GJ7GNMG000000VS5489BTVVG7L386@fussball-de
-DTSTAMP:20260904T014247Z
-DTSTART;TZID=Europe/Berlin:20260914T000000
-DTEND;TZID=Europe/Berlin:20260914T013000
-SUMMARY: Herren: CSC Paderborn - FC Kastrioti Stukenbrock 
- (Anstoss offen)
-DESCRIPTION:Kreisliga A ME\nAnstosszeit steht noch nicht fest.\nSpielstae
- tte: ierung\nStand FUSSBALL.DE: https://www.fussball.de/spiel/csc-paderb
- orn-fc-kastrioti-stukenbrock/-/spiel/031GJ7GNMG000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/csc-paderborn-fc-kastrioti-stukenbrock/
- -/spiel/031GJ7GNMG000000VS5489BTVVG7L386
-CATEGORIES: Herren
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-LOCATION:ierung
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - FC Kastrioti Stukenbr
- ock (Anstoss offen)
-TRIGGER:-PT18H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION: Herren: CSC Paderborn - FC Kastrioti Stukenbr
- ock (Anstoss offen)
+DESCRIPTION:Herren: Int. FC Paderborn - CSC Paderborn II
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:csc-031JA5C7DO000000VS5489BTVSRD0UH9@fussball-de
-DTSTAMP:20260904T014247Z
+DTSTAMP:20260904T043659Z
 DTSTART;TZID=Europe/Berlin:20260914T170000
 DTEND;TZID=Europe/Berlin:20260914T183000
-SUMMARY: D-Junioren: TuS Sennelager III 7er - CSC Paderbor
- n II 7er
+SUMMARY:D-Junioren: TuS Sennelager III 7er - CSC Paderborn II 7er
 DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
  s://www.fussball.de/spiel/tus-sennelager-iii-7er-csc-paderborn-ii-7er/-/
  spiel/031JA5C7DO000000VS5489BTVSRD0UH9
 URL:https://www.fussball.de/spiel/tus-sennelager-iii-7er-csc-paderborn-ii
  -7er/-/spiel/031JA5C7DO000000VS5489BTVSRD0UH9
-CATEGORIES: D-Junioren
+CATEGORIES:D-Junioren
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 LOCATION:ierung
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TuS Sennelager III 7er - CSC Pade
- rborn II 7er
+DESCRIPTION:D-Junioren: TuS Sennelager III 7er - CSC Paderborn II 7er
 TRIGGER:-PT18H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION: D-Junioren: TuS Sennelager III 7er - CSC Pade
- rborn II 7er
+DESCRIPTION:D-Junioren: TuS Sennelager III 7er - CSC Paderborn II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TT4S000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260918T170000
+DTEND;TZID=Europe/Berlin:20260918T183000
+SUMMARY:E-Junioren: CSC Paderborn - SC Borchen
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sc-borchen/-/spiel/031JH6TT4S000
+ 000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sc-borchen/-/spiel/031JH6
+ TT4S000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - SC Borchen
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - SC Borchen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UMVN4000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260918T183000
+DTEND;TZID=Europe/Berlin:20260918T200000
+SUMMARY:B-Junioren: JSG Anreppen II - CSC Paderborn 9er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-anreppen-ii-csc-paderborn-9er/-/spiel/031J
+ 6UMVN4000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-anreppen-ii-csc-paderborn-9er/-/spi
+ el/031J6UMVN4000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Anreppen II - CSC Paderborn 9er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Anreppen II - CSC Paderborn 9er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7B8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260919T110000
+DTEND;TZID=Europe/Berlin:20260919T123000
+SUMMARY:D-Junioren: CSC Paderborn II 7er - SC Aleviten Paderborn 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-7er-sc-aleviten-paderborn-7er
+ /-/spiel/031JA5C7B8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-sc-aleviten-paderb
+ orn-7er/-/spiel/031JA5C7B8000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - SC Aleviten Paderborn 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - SC Aleviten Paderborn 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A81C000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260919T113000
+DTEND;TZID=Europe/Berlin:20260919T130000
+SUMMARY:D-Junioren: SF DJK Mastbruch II - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spiel/031J
+ A0A81C000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spi
+ el/031JA0A81C000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: SF DJK Mastbruch II - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: SF DJK Mastbruch II - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VL6C000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260919T123000
+DTEND;TZID=Europe/Berlin:20260919T140000
+SUMMARY:C-Junioren: SV Marienloh - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sv-marienloh-csc-paderborn/-/spiel/031J74VL6C0
+ 00000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sv-marienloh-csc-paderborn/-/spiel/031J
+ 74VL6C000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SV Marienloh - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SV Marienloh - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV7K0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260920T130000
+DTEND;TZID=Europe/Berlin:20260920T143000
+SUMMARY:Herren: CSC Paderborn II - BV Bad Lippspringe III
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-bv-bad-lippspringe-iii/-/spie
+ l/031HCJV7K0000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-bv-bad-lippspringe-iii
+ /-/spiel/031HCJV7K0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - BV Bad Lippspringe III
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - BV Bad Lippspringe III
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GKT8000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260920T153000
+DTEND;TZID=Europe/Berlin:20260920T170000
+SUMMARY:Herren: CSC Paderborn - SG Oberes Almetal 23
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sg-oberes-almetal-23/-/spiel/031
+ GJ7GKT8000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sg-oberes-almetal-23/-/sp
+ iel/031GJ7GKT8000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SG Oberes Almetal 23
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SG Oberes Almetal 23
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031ILNAAIO000000VS5489BUVVKNMR0J@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260923T183000
+DTEND;TZID=Europe/Berlin:20260923T200000
+SUMMARY:B-Junioren: Gewinner aus Spiel 200241002 (PH) - CSC Paderborn 9er
+DESCRIPTION:Kreispokal PO\nStand FUSSBALL.DE: https://www.fussball.de/spi
+ el/csc-paderborn-9er/-/spiel/031ILNAAIO000000VS5489BUVVKNMR0J
+URL:https://www.fussball.de/spiel/csc-paderborn-9er/-/spiel/031ILNAAIO000
+ 000VS5489BUVVKNMR0J
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: Gewinner aus Spiel 200241002 (PH) - CSC Paderborn
+  9er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: Gewinner aus Spiel 200241002 (PH) - CSC Paderborn
+  9er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TT2O000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260925T180000
+DTEND;TZID=Europe/Berlin:20260925T193000
+SUMMARY:E-Junioren: CSC Paderborn - BV Bad Lippspringe
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-bv-bad-lippspringe/-/spiel/031JH
+ 6TT2O000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-bv-bad-lippspringe/-/spie
+ l/031JH6TT2O000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - BV Bad Lippspringe
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - BV Bad Lippspringe
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A7R8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260926T110000
+DTEND;TZID=Europe/Berlin:20260926T123000
+SUMMARY:D-Junioren: CSC Paderborn - Hövelhofer SV
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-hoevelhofer-sv/-/spiel/031JA0A7R
+ 8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-hoevelhofer-sv/-/spiel/03
+ 1JA0A7R8000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - Hövelhofer SV
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - Hövelhofer SV
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VL2K000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260926T130000
+DTEND;TZID=Europe/Berlin:20260926T143000
+SUMMARY:C-Junioren: SF BW Paderborn - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/031J74VL
+ 2K000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/0
+ 31J74VL2K000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SF BW Paderborn - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SF BW Paderborn - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7A0000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260926T130000
+DTEND;TZID=Europe/Berlin:20260926T143000
+SUMMARY:D-Junioren: Hövelhofer SV II 7er - CSC Paderborn II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/hoevelhofer-sv-ii-7er-csc-paderborn-ii-7er/-/s
+ piel/031JA5C7A0000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/hoevelhofer-sv-ii-7er-csc-paderborn-ii-
+ 7er/-/spiel/031JA5C7A0000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Hövelhofer SV II 7er - CSC Paderborn II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Hövelhofer SV II 7er - CSC Paderborn II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV7A0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260927T120000
+DTEND;TZID=Europe/Berlin:20260927T133000
+SUMMARY:Herren: Türk-Gücü Paderborn II - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tuerk-guecue-paderborn-ii-csc-paderborn-ii/-/s
+ piel/031HCJV7A0000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/tuerk-guecue-paderborn-ii-csc-paderborn
+ -ii/-/spiel/031HCJV7A0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Türk-Gücü Paderborn II - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Türk-Gücü Paderborn II - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GKMK000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20260927T150000
+DTEND;TZID=Europe/Berlin:20260927T163000
+SUMMARY:Herren: SG Scharmede/​Thüle - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sg-scharmede-thuele-csc-paderborn/-/spiel/031G
+ J7GKMK000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-scharmede-thuele-csc-paderborn/-/spi
+ el/031GJ7GKMK000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Scharmede/​Thüle - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Scharmede/​Thüle - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VL14000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261002T180000
+DTEND;TZID=Europe/Berlin:20261002T193000
+SUMMARY:C-Junioren: CSC Paderborn - SC Grün-Weiß Paderborn II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sc-gruen-weiss-paderborn-ii/-/sp
+ iel/031J74VL14000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sc-gruen-weiss-paderborn-
+ ii/-/spiel/031J74VL14000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SC Grün-Weiß Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SC Grün-Weiß Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TT1C000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261002T183000
+DTEND;TZID=Europe/Berlin:20261002T200000
+SUMMARY:E-Junioren: TuS Altenbeken - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tus-altenbeken-csc-paderborn/-/spiel/031JH6TT1
+ C000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/tus-altenbeken-csc-paderborn/-/spiel/03
+ 1JH6TT1C000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: TuS Altenbeken - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: TuS Altenbeken - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C77G000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261003T110000
+DTEND;TZID=Europe/Berlin:20261003T123000
+SUMMARY:D-Junioren: JSG Boke II 7er - CSC Paderborn II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-boke-ii-7er-csc-paderborn-ii-7er/-/spiel/0
+ 31JA5C77G000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-boke-ii-7er-csc-paderborn-ii-7er/-/
+ spiel/031JA5C77G000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: JSG Boke II 7er - CSC Paderborn II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: JSG Boke II 7er - CSC Paderborn II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A7N4000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261003T120000
+DTEND;TZID=Europe/Berlin:20261003T133000
+SUMMARY:D-Junioren: CSC Paderborn - Delbrücker SC II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-delbruecker-sc-ii/-/spiel/031JA0
+ A7N4000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-delbruecker-sc-ii/-/spiel
+ /031JA0A7N4000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - Delbrücker SC II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - Delbrücker SC II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UMVHS000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+DTEND;TZID=Europe/Berlin:20261003T153000
+SUMMARY:B-Junioren: CSC Paderborn 9er - JSG Mastbruch-Sennelager II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-9er-jsg-mastbruch-sennelager-ii/
+ -/spiel/031J6UMVHS000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-mastbruch-sennela
+ ger-ii/-/spiel/031J6UMVHS000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Mastbruch-Sennelager II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Mastbruch-Sennelager II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV6QC000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261004T120000
+DTEND;TZID=Europe/Berlin:20261004T133000
+SUMMARY:Herren: TuRa Elsen II - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tura-elsen-ii-csc-paderborn-ii/-/spiel/031HCJV
+ 6QC000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/tura-elsen-ii-csc-paderborn-ii/-/spiel/
+ 031HCJV6QC000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TuRa Elsen II - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TuRa Elsen II - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GKA4000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261004T153000
+DTEND;TZID=Europe/Berlin:20261004T170000
+SUMMARY:Herren: CSC Paderborn - SC RW Verne
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sc-rw-verne/-/spiel/031GJ7GKA400
+ 0000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sc-rw-verne/-/spiel/031GJ
+ 7GKA4000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SC RW Verne
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SC RW Verne
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TSUK000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+DTEND;TZID=Europe/Berlin:20261009T193000
+SUMMARY:E-Junioren: CSC Paderborn - TV 1875 Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tv-1875-paderborn/-/spiel/031JH6
+ TSUK000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-tv-1875-paderborn/-/spiel
+ /031JH6TSUK000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - TV 1875 Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - TV 1875 Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UMVFG000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261009T190000
+DTEND;TZID=Europe/Berlin:20261009T203000
+SUMMARY:B-Junioren: JSG Altenautal-Lichtenau - CSC Paderborn 9er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-altenautal-lichtenau-csc-paderborn-9er/-/s
+ piel/031J6UMVFG000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-altenautal-lichtenau-csc-paderborn-
+ 9er/-/spiel/031J6UMVFG000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Altenautal-Lichtenau - CSC Paderborn 9er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Altenautal-Lichtenau - CSC Paderborn 9er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C754000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261010T110000
+DTEND;TZID=Europe/Berlin:20261010T123000
+SUMMARY:D-Junioren: CSC Paderborn II 7er - JSG Alfen II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-alfen-ii-7er/-/spiel/
+ 031JA5C754000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-alfen-ii-7er/-
+ /spiel/031JA5C754000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - JSG Alfen II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - JSG Alfen II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A7LO000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261010T123000
+DTEND;TZID=Europe/Berlin:20261010T140000
+SUMMARY:D-Junioren: TSV Wewer - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031JA0A7LO0000
+ 00VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031JA0A
+ 7LO000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: TSV Wewer - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: TSV Wewer - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VKU0000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261010T140000
+DTEND;TZID=Europe/Berlin:20261010T153000
+SUMMARY:C-Junioren: JSG Holsen - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-holsen-csc-paderborn/-/spiel/031J74VKU0000
+ 000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-holsen-csc-paderborn/-/spiel/031J74
+ VKU0000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: JSG Holsen - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: JSG Holsen - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV6JS000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261011T130000
+DTEND;TZID=Europe/Berlin:20261011T143000
+SUMMARY:Herren: CSC Paderborn II - SC Grün-Weiß Paderborn
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-sc-gruen-weiss-paderborn/-/sp
+ iel/031HCJV6JS000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-sc-gruen-weiss-paderbo
+ rn/-/spiel/031HCJV6JS000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - SC Grün-Weiß Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - SC Grün-Weiß Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GK1S000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261011T150000
+DTEND;TZID=Europe/Berlin:20261011T163000
+SUMMARY:Herren: SC GW Espeln - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-gw-espeln-csc-paderborn/-/spiel/031GJ7GK1S0
+ 00000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sc-gw-espeln-csc-paderborn/-/spiel/031G
+ J7GK1S000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC GW Espeln - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC GW Espeln - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TTK8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261016T180000
+DTEND;TZID=Europe/Berlin:20261016T193000
+SUMMARY:E-Junioren: CSC Paderborn - SF BW Paderborn II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn-ii/-/spiel/031JH
+ 6TTK8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn-ii/-/spie
+ l/031JH6TTK8000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - SF BW Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - SF BW Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7OG000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261017T110000
+DTEND;TZID=Europe/Berlin:20261017T123000
+SUMMARY:D-Junioren: CSC Paderborn II 7er - TuS Sennelager III 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-7er-tus-sennelager-iii-7er/-/
+ spiel/031JA5C7OG000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-tus-sennelager-iii
+ -7er/-/spiel/031JA5C7OG000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - TuS Sennelager III 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - TuS Sennelager III 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VLL8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261017T120000
+DTEND;TZID=Europe/Berlin:20261017T133000
+SUMMARY:C-Junioren: Delbrücker SC III - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/delbruecker-sc-iii-csc-paderborn/-/spiel/031J7
+ 4VLL8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/delbruecker-sc-iii-csc-paderborn/-/spie
+ l/031J74VLL8000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: Delbrücker SC III - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: Delbrücker SC III - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A8TS000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261017T130000
+DTEND;TZID=Europe/Berlin:20261017T143000
+SUMMARY:D-Junioren: TuS Sennelager - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tus-sennelager-csc-paderborn/-/spiel/031JA0A8T
+ S000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/tus-sennelager-csc-paderborn/-/spiel/03
+ 1JA0A8TS000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: TuS Sennelager - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: TuS Sennelager - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UN05K000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261017T173000
+DTEND;TZID=Europe/Berlin:20261017T190000
+SUMMARY:B-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn 9er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderborn-9er/
+ -/spiel/031J6UN05K000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderbo
+ rn-9er/-/spiel/031J6UN05K000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn 9er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn 9er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV6G8000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261018T120000
+DTEND;TZID=Europe/Berlin:20261018T133000
+SUMMARY:Herren: SF BW Paderborn II - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sf-bw-paderborn-ii-csc-paderborn-ii/-/spiel/03
+ 1HCJV6G8000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sf-bw-paderborn-ii-csc-paderborn-ii/-/s
+ piel/031HCJV6G8000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF BW Paderborn II - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF BW Paderborn II - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GJKG000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261018T150000
+DTEND;TZID=Europe/Berlin:20261018T163000
+SUMMARY:Herren: SV Schöning - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sv-schoening-csc-paderborn/-/spiel/031GJ7GJKG0
+ 00000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sv-schoening-csc-paderborn/-/spiel/031G
+ J7GJKG000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SV Schöning - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SV Schöning - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV638000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261025T130000
+DTEND;TZID=Europe/Berlin:20261025T143000
+SUMMARY:Herren: CSC Paderborn II - Africa United Football Club
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-africa-united-football-club/-
+ /spiel/031HCJV638000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-africa-united-football
+ -club/-/spiel/031HCJV638000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Africa United Football Club
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Africa United Football Club
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GJE4000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261025T153000
+DTEND;TZID=Europe/Berlin:20261025T170000
+SUMMARY:Herren: CSC Paderborn - TuRa Elsen
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tura-elsen/-/spiel/031GJ7GJE4000
+ 000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-tura-elsen/-/spiel/031GJ7
+ GJE4000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TuRa Elsen
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TuRa Elsen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UN03C000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261106T183000
+DTEND;TZID=Europe/Berlin:20261106T200000
+SUMMARY:B-Junioren: CSC Paderborn 9er - JSG Anreppen II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-9er-jsg-anreppen-ii/-/spiel/031J
+ 6UN03C000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-anreppen-ii/-/spi
+ el/031J6UN03C000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Anreppen II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Anreppen II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TTG8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261107T100000
+DTEND;TZID=Europe/Berlin:20261107T113000
+SUMMARY:E-Junioren: SC Borchen - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-borchen-csc-paderborn/-/spiel/031JH6TTG8000
+ 000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sc-borchen-csc-paderborn/-/spiel/031JH6
+ TTG8000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: SC Borchen - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: SC Borchen - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A8PO000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261107T110000
+DTEND;TZID=Europe/Berlin:20261107T123000
+SUMMARY:D-Junioren: CSC Paderborn - SF DJK Mastbruch II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sf-djk-mastbruch-ii/-/spiel/031J
+ A0A8PO000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sf-djk-mastbruch-ii/-/spi
+ el/031JA0A8PO000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - SF DJK Mastbruch II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - SF DJK Mastbruch II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7LG000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261107T130000
+DTEND;TZID=Europe/Berlin:20261107T143000
+SUMMARY:D-Junioren: SC Aleviten Paderborn 7er - CSC Paderborn II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-aleviten-paderborn-7er-csc-paderborn-ii-7er
+ /-/spiel/031JA5C7LG000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sc-aleviten-paderborn-7er-csc-paderborn
+ -ii-7er/-/spiel/031JA5C7LG000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: SC Aleviten Paderborn 7er - CSC Paderborn II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: SC Aleviten Paderborn 7er - CSC Paderborn II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VLJG000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261107T130000
+DTEND;TZID=Europe/Berlin:20261107T143000
+SUMMARY:C-Junioren: CSC Paderborn - SV Marienloh
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sv-marienloh/-/spiel/031J74VLJG0
+ 00000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sv-marienloh/-/spiel/031J
+ 74VLJG000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SV Marienloh
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SV Marienloh
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJV5TO000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261108T123000
+DTEND;TZID=Europe/Berlin:20261108T140000
+SUMMARY:Herren: Suryoye Paderborn II - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/suryoye-paderborn-ii-csc-paderborn-ii/-/spiel/
+ 031HCJV5TO000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/suryoye-paderborn-ii-csc-paderborn-ii/-
+ /spiel/031HCJV5TO000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Suryoye Paderborn II - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Suryoye Paderborn II - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GJAG000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261108T150000
+DTEND;TZID=Europe/Berlin:20261108T163000
+SUMMARY:Herren: SF BW Paderborn - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/031GJ7GJ
+ AG000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sf-bw-paderborn-csc-paderborn/-/spiel/0
+ 31GJ7GJAG000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF BW Paderborn - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF BW Paderborn - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A8K4000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+DTEND;TZID=Europe/Berlin:20261114T113000
+SUMMARY:D-Junioren: Hövelhofer SV - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/hoevelhofer-sv-csc-paderborn/-/spiel/031JA0A8K
+ 4000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/hoevelhofer-sv-csc-paderborn/-/spiel/03
+ 1JA0A8K4000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Hövelhofer SV - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Hövelhofer SV - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7K0000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+DTEND;TZID=Europe/Berlin:20261114T123000
+SUMMARY:D-Junioren: CSC Paderborn II 7er - Hövelhofer SV II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-7er-hoevelhofer-sv-ii-7er/-/s
+ piel/031JA5C7K0000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-hoevelhofer-sv-ii-
+ 7er/-/spiel/031JA5C7K0000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - Hövelhofer SV II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - Hövelhofer SV II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TTDK000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261114T120000
+DTEND;TZID=Europe/Berlin:20261114T133000
+SUMMARY:E-Junioren: BV Bad Lippspringe - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/bv-bad-lippspringe-csc-paderborn/-/spiel/031JH
+ 6TTDK000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/bv-bad-lippspringe-csc-paderborn/-/spie
+ l/031JH6TTDK000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: BV Bad Lippspringe - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: BV Bad Lippspringe - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VLF8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+DTEND;TZID=Europe/Berlin:20261114T143000
+SUMMARY:C-Junioren: CSC Paderborn - SF BW Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/031J74VL
+ F8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/0
+ 31J74VLF8000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SF BW Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - SF BW Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVGSG000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261115T130000
+DTEND;TZID=Europe/Berlin:20261115T143000
+SUMMARY:Herren: SG Lichtenau/​Kleinenberg - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sg-lichtenau-kleinenberg-csc-paderborn-ii/-/sp
+ iel/031HCJVGSG000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-lichtenau-kleinenberg-csc-paderborn-
+ ii/-/spiel/031HCJVGSG000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Lichtenau/​Kleinenberg - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Lichtenau/​Kleinenberg - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GIU8000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261115T153000
+DTEND;TZID=Europe/Berlin:20261115T170000
+SUMMARY:Herren: CSC Paderborn - TSV Wewer
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031GJ7GIU80000
+ 00VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031GJ7G
+ IU8000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TSV Wewer
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TSV Wewer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TTBS000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261120T180000
+DTEND;TZID=Europe/Berlin:20261120T193000
+SUMMARY:E-Junioren: CSC Paderborn - TuS Altenbeken
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tus-altenbeken/-/spiel/031JH6TTB
+ S000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-tus-altenbeken/-/spiel/03
+ 1JH6TTBS000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - TuS Altenbeken
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: CSC Paderborn - TuS Altenbeken
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7H8000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T123000
+SUMMARY:D-Junioren: CSC Paderborn II 7er - JSG Boke II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-boke-ii-7er/-/spiel/0
+ 31JA5C7H8000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-7er-jsg-boke-ii-7er/-/
+ spiel/031JA5C7H8000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - JSG Boke II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn II 7er - JSG Boke II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A8FS000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T150000
+SUMMARY:D-Junioren: Delbrücker SC II - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/delbruecker-sc-ii-csc-paderborn/-/spiel/031JA0
+ A8FS000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/delbruecker-sc-ii-csc-paderborn/-/spiel
+ /031JA0A8FS000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Delbrücker SC II - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: Delbrücker SC II - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VLDO000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T150000
+SUMMARY:C-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderborn/-/sp
+ iel/031J74VLDO000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-ii-csc-paderbo
+ rn/-/spiel/031J74VLDO000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: SC Grün-Weiß Paderborn II - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UMVTK000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261121T163000
+DTEND;TZID=Europe/Berlin:20261121T180000
+SUMMARY:B-Junioren: JSG Mastbruch-Sennelager II - CSC Paderborn 9er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-mastbruch-sennelager-ii-csc-paderborn-9er/
+ -/spiel/031J6UMVTK000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-mastbruch-sennelager-ii-csc-paderbo
+ rn-9er/-/spiel/031J6UMVTK000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Mastbruch-Sennelager II - CSC Paderborn 9er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: JSG Mastbruch-Sennelager II - CSC Paderborn 9er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA5C7F0000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261128T110000
+DTEND;TZID=Europe/Berlin:20261128T123000
+SUMMARY:D-Junioren: JSG Alfen II 7er - CSC Paderborn II 7er
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/jsg-alfen-ii-7er-csc-paderborn-ii-7er/-/spiel/
+ 031JA5C7F0000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-alfen-ii-7er-csc-paderborn-ii-7er/-
+ /spiel/031JA5C7F0000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: JSG Alfen II 7er - CSC Paderborn II 7er
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: JSG Alfen II 7er - CSC Paderborn II 7er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JH6TT90000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261128T110000
+DTEND;TZID=Europe/Berlin:20261128T123000
+SUMMARY:E-Junioren: TV 1875 Paderborn - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tv-1875-paderborn-csc-paderborn/-/spiel/031JH6
+ TT90000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/tv-1875-paderborn-csc-paderborn/-/spiel
+ /031JH6TT90000000VS5489BTVSRD0UH9
+CATEGORIES:E-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: TV 1875 Paderborn - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-Junioren: TV 1875 Paderborn - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031JA0A8EC000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261128T110000
+DTEND;TZID=Europe/Berlin:20261128T123000
+SUMMARY:D-Junioren: CSC Paderborn - TSV Wewer
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031JA0A8EC0000
+ 00VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-tsv-wewer/-/spiel/031JA0A
+ 8EC000000VS5489BTVSRD0UH9
+CATEGORIES:D-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - TSV Wewer
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Junioren: CSC Paderborn - TSV Wewer
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J74VLBC000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261128T130000
+DTEND;TZID=Europe/Berlin:20261128T143000
+SUMMARY:C-Junioren: CSC Paderborn - JSG Holsen
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-jsg-holsen/-/spiel/031J74VLBC000
+ 000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-jsg-holsen/-/spiel/031J74
+ VLBC000000VS5489BTVSRD0UH9
+CATEGORIES:C-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - JSG Holsen
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:C-Junioren: CSC Paderborn - JSG Holsen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031J6UMVRC000000VS5489BTVSRD0UH9@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+DTEND;TZID=Europe/Berlin:20261128T163000
+SUMMARY:B-Junioren: CSC Paderborn 9er - JSG Altenautal-Lichtenau
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-9er-jsg-altenautal-lichtenau/-/s
+ piel/031J6UMVRC000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/csc-paderborn-9er-jsg-altenautal-lichte
+ nau/-/spiel/031J6UMVRC000000VS5489BTVSRD0UH9
+CATEGORIES:B-Junioren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Altenautal-Lichtenau
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B-Junioren: CSC Paderborn 9er - JSG Altenautal-Lichtenau
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GIQ0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261129T143000
+DTEND;TZID=Europe/Berlin:20261129T160000
+SUMMARY:Herren: FC Kastrioti Stukenbrock - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/fc-kastrioti-stukenbrock-csc-paderborn/-/spiel
+ /031GJ7GIQ0000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/fc-kastrioti-stukenbrock-csc-paderborn/
+ -/spiel/031GJ7GIQ0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: FC Kastrioti Stukenbrock - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: FC Kastrioti Stukenbrock - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GUPK000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20261206T150000
+DTEND;TZID=Europe/Berlin:20261206T163000
+SUMMARY:Herren: Suryoye Paderborn - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/suryoye-paderborn-csc-paderborn/-/spiel/031GJ7
+ GUPK000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/suryoye-paderborn-csc-paderborn/-/spiel
+ /031GJ7GUPK000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Suryoye Paderborn - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Suryoye Paderborn - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GTIS000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270228T150000
+DTEND;TZID=Europe/Berlin:20270228T163000
+SUMMARY:Herren: SCV Neuenbeken - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/scv-neuenbeken-csc-paderborn/-/spiel/031GJ7GTI
+ S000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/scv-neuenbeken-csc-paderborn/-/spiel/03
+ 1GJ7GTIS000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SCV Neuenbeken - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SCV Neuenbeken - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVG6S000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270307T130000
+DTEND;TZID=Europe/Berlin:20270307T143000
+SUMMARY:Herren: CSC Paderborn II - TV 1875 Paderborn
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-tv-1875-paderborn/-/spiel/031
+ HCJVG6S000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-tv-1875-paderborn/-/sp
+ iel/031HCJVG6S000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - TV 1875 Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - TV 1875 Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GSUK000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270307T153000
+DTEND;TZID=Europe/Berlin:20270307T170000
+SUMMARY:Herren: CSC Paderborn - TuS Egge Schwaney
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-tus-egge-schwaney/-/spiel/031GJ7
+ GSUK000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-tus-egge-schwaney/-/spiel
+ /031GJ7GSUK000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TuS Egge Schwaney
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - TuS Egge Schwaney
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GSE8000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270314T130000
+DTEND;TZID=Europe/Berlin:20270314T143000
+SUMMARY:Herren: SF DJK Mastbruch II - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spiel/031G
+ J7GSE8000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sf-djk-mastbruch-ii-csc-paderborn/-/spi
+ el/031GJ7GSE8000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF DJK Mastbruch II - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SF DJK Mastbruch II - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVETC000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270321T130000
+DTEND;TZID=Europe/Berlin:20270321T143000
+SUMMARY:Herren: CSC Paderborn II - Star FC Paderborn
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-star-fc-paderborn/-/spiel/031
+ HCJVETC000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-star-fc-paderborn/-/sp
+ iel/031HCJVETC000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Star FC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Star FC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GS7G000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270321T153000
+DTEND;TZID=Europe/Berlin:20270321T170000
+SUMMARY:Herren: CSC Paderborn - SV Heide-Paderborn II
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sv-heide-paderborn-ii/-/spiel/03
+ 1GJ7GS7G000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sv-heide-paderborn-ii/-/s
+ piel/031GJ7GS7G000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV Heide-Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV Heide-Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GU90000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270329T153000
+DTEND;TZID=Europe/Berlin:20270329T170000
+SUMMARY:Herren: CSC Paderborn - SV 21 Brenken
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sv-21-brenken/-/spiel/031GJ7GU90
+ 000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sv-21-brenken/-/spiel/031
+ GJ7GU90000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV 21 Brenken
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV 21 Brenken
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GRBS000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270404T150000
+DTEND;TZID=Europe/Berlin:20270404T163000
+SUMMARY:Herren: SG Oberes Almetal 23 - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sg-oberes-almetal-23-csc-paderborn/-/spiel/031
+ GJ7GRBS000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-oberes-almetal-23-csc-paderborn/-/sp
+ iel/031GJ7GRBS000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Oberes Almetal 23 - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SG Oberes Almetal 23 - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVE70000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270411T130000
+DTEND;TZID=Europe/Berlin:20270411T143000
+SUMMARY:Herren: CSC Paderborn II - Int. FC Paderborn
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-int-fc-paderborn/-/spiel/031H
+ CJVE70000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-int-fc-paderborn/-/spi
+ el/031HCJVE70000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Int. FC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Int. FC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GR1O000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270411T153000
+DTEND;TZID=Europe/Berlin:20270411T170000
+SUMMARY:Herren: CSC Paderborn - SG Scharmede/​Thüle
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sg-scharmede-thuele/-/spiel/031G
+ J7GR1O000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sg-scharmede-thuele/-/spi
+ el/031GJ7GR1O000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SG Scharmede/​Thüle
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SG Scharmede/​Thüle
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVD9O000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270418T123000
+DTEND;TZID=Europe/Berlin:20270418T140000
+SUMMARY:Herren: BV Bad Lippspringe III - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/bv-bad-lippspringe-iii-csc-paderborn-ii/-/spie
+ l/031HCJVD9O000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/bv-bad-lippspringe-iii-csc-paderborn-ii
+ /-/spiel/031HCJVD9O000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: BV Bad Lippspringe III - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: BV Bad Lippspringe III - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GQC0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270418T150000
+DTEND;TZID=Europe/Berlin:20270418T163000
+SUMMARY:Herren: SC RW Verne - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-rw-verne-csc-paderborn/-/spiel/031GJ7GQC000
+ 0000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sc-rw-verne-csc-paderborn/-/spiel/031GJ
+ 7GQC0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC RW Verne - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC RW Verne - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVCRS000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270425T130000
+DTEND;TZID=Europe/Berlin:20270425T143000
+SUMMARY:Herren: CSC Paderborn II - Türk-Gücü Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-tuerk-guecue-paderborn-ii/-/s
+ piel/031HCJVCRS000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-tuerk-guecue-paderborn
+ -ii/-/spiel/031HCJVCRS000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Türk-Gücü Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Türk-Gücü Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GPU0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270425T150000
+DTEND;TZID=Europe/Berlin:20270425T163000
+SUMMARY:Herren: CSC Paderborn - SC GW Espeln
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sc-gw-espeln/-/spiel/031GJ7GPU00
+ 00000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sc-gw-espeln/-/spiel/031G
+ J7GPU0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SC GW Espeln
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SC GW Espeln
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVC4C000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270502T130000
+DTEND;TZID=Europe/Berlin:20270502T143000
+SUMMARY:Herren: CSC Paderborn II - TuRa Elsen II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-tura-elsen-ii/-/spiel/031HCJV
+ C4C000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-tura-elsen-ii/-/spiel/
+ 031HCJVC4C000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - TuRa Elsen II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - TuRa Elsen II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GP9G000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270502T153000
+DTEND;TZID=Europe/Berlin:20270502T170000
+SUMMARY:Herren: CSC Paderborn - SV Schöning
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sv-schoening/-/spiel/031GJ7GP9G0
+ 00000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sv-schoening/-/spiel/031G
+ J7GP9G000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV Schöning
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SV Schöning
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GOU0000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270509T150000
+DTEND;TZID=Europe/Berlin:20270509T163000
+SUMMARY:Herren: TuRa Elsen - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tura-elsen-csc-paderborn/-/spiel/031GJ7GOU0000
+ 000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/tura-elsen-csc-paderborn/-/spiel/031GJ7
+ GOU0000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TuRa Elsen - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TuRa Elsen - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVBN4000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270509T170000
+DTEND;TZID=Europe/Berlin:20270509T183000
+SUMMARY:Herren: SC Grün-Weiß Paderborn - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/sc-gruen-weiss-paderborn-csc-paderborn-ii/-/sp
+ iel/031HCJVBN4000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sc-gruen-weiss-paderborn-csc-paderborn-
+ ii/-/spiel/031HCJVBN4000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC Grün-Weiß Paderborn - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: SC Grün-Weiß Paderborn - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVBFK000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270517T130000
+DTEND;TZID=Europe/Berlin:20270517T143000
+SUMMARY:Herren: CSC Paderborn II - SF BW Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-sf-bw-paderborn-ii/-/spiel/03
+ 1HCJVBFK000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-sf-bw-paderborn-ii/-/s
+ piel/031HCJVBFK000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - SF BW Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - SF BW Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GONC000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270517T153000
+DTEND;TZID=Europe/Berlin:20270517T170000
+SUMMARY:Herren: CSC Paderborn - SF BW Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/031GJ7GO
+ NC000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-sf-bw-paderborn/-/spiel/0
+ 31GJ7GONC000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SF BW Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - SF BW Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVAN4000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270523T110000
+DTEND;TZID=Europe/Berlin:20270523T123000
+SUMMARY:Herren: Africa United Football Club - CSC Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/africa-united-football-club-csc-paderborn-ii/-
+ /spiel/031HCJVAN4000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/africa-united-football-club-csc-paderbo
+ rn-ii/-/spiel/031HCJVAN4000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Africa United Football Club - CSC Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: Africa United Football Club - CSC Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GNVC000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270523T150000
+DTEND;TZID=Europe/Berlin:20270523T163000
+SUMMARY:Herren: TSV Wewer - CSC Paderborn
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031GJ7GNVC0000
+ 00VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/tsv-wewer-csc-paderborn/-/spiel/031GJ7G
+ NVC000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TSV Wewer - CSC Paderborn
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: TSV Wewer - CSC Paderborn
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031HCJVACS000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270530T130000
+DTEND;TZID=Europe/Berlin:20270530T143000
+SUMMARY:Herren: CSC Paderborn II - Suryoye Paderborn II
+DESCRIPTION:Kreisliga C ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-ii-suryoye-paderborn-ii/-/spiel/
+ 031HCJVACS000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-ii-suryoye-paderborn-ii/-
+ /spiel/031HCJVACS000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Suryoye Paderborn II
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn II - Suryoye Paderborn II
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:csc-031GJ7GNMG000000VS5489BTVVG7L386@fussball-de
+DTSTAMP:20260904T043659Z
+DTSTART;TZID=Europe/Berlin:20270530T150000
+DTEND;TZID=Europe/Berlin:20270530T163000
+SUMMARY:Herren: CSC Paderborn - FC Kastrioti Stukenbrock
+DESCRIPTION:Kreisliga A ME\nSpielstaette: ierung\nStand FUSSBALL.DE: http
+ s://www.fussball.de/spiel/csc-paderborn-fc-kastrioti-stukenbrock/-/spiel
+ /031GJ7GNMG000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/csc-paderborn-fc-kastrioti-stukenbrock/
+ -/spiel/031GJ7GNMG000000VS5489BTVVG7L386
+CATEGORIES:Herren
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:ierung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - FC Kastrioti Stukenbrock
+TRIGGER:-PT18H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Herren: CSC Paderborn - FC Kastrioti Stukenbrock
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
