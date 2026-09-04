@@ -1,80 +1,122 @@
-Lauf am 04.09.2026 01:25
+Lauf am 04.09.2026 01:40
 
-Mannschaft: E-Jugend
-  team-id/02GNQ1A98K000000VS5489B2VULC3I30 10 gelesen, davon 10 neu
-  max/30                 10 gelesen, davon 0 neu
-  max/50                 10 gelesen, davon 0 neu
-  offset/10              10 gelesen, davon 0 neu
-  max/10/offset/10       10 gelesen, davon 0 neu
-  offset/20              10 gelesen, davon 0 neu
-  max/10/offset/20       10 gelesen, davon 0 neu
-  offset/30              10 gelesen, davon 0 neu
-  max/10/offset/30       10 gelesen, davon 0 neu
-  offset/40              10 gelesen, davon 0 neu
-  max/10/offset/40       10 gelesen, davon 0 neu
-  Ergebnis: 10 Spiele fuer diese Mannschaft
+Vereinsspielplan (alle Mannschaften auf einmal):
+  vereinsspielplan.druck                    91 gelesen,  90 neu,   0 vergangen
+  vereinsspielplan.druck (ohne Spielstaetten)  91 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       98 gelesen,   7 neu,   0 vergangen
+  ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
 
-Mannschaft: D-Jugend
-  team-id/02EO22JI3S000000VS5489B2VSAS84KM 10 gelesen, davon 10 neu
-  max/30                 10 gelesen, davon 0 neu
-  max/50                 10 gelesen, davon 0 neu
-  offset/10              10 gelesen, davon 0 neu
-  max/10/offset/10       10 gelesen, davon 0 neu
-  offset/20              10 gelesen, davon 0 neu
-  max/10/offset/20       10 gelesen, davon 0 neu
-  offset/30              10 gelesen, davon 0 neu
-  max/10/offset/30       10 gelesen, davon 0 neu
-  offset/40              10 gelesen, davon 0 neu
-  max/10/offset/40       10 gelesen, davon 0 neu
-  Ergebnis: 10 Spiele fuer diese Mannschaft
+Einzelabfragen zur Absicherung:
+  Herren               10 gelesen,  0 neu
+  Herren II             9 gelesen,  0 neu
+  B-Junioren 9er        9 gelesen,  0 neu
+  C-Junioren           10 gelesen,  0 neu
+  D-Junioren           10 gelesen,  0 neu
+  D-Junioren II 7er    10 gelesen,  0 neu
+  E-Junioren           10 gelesen,  0 neu
+  F-Junioren            0 gelesen,  0 neu
 
-Mannschaft: D-Jugend 7er
-  team-id/030T4SU0TC000000VS5489BSVSO3A7B3 10 gelesen, davon 10 neu
-  max/30                 10 gelesen, davon 0 neu
-  max/50                 10 gelesen, davon 0 neu
-  offset/10              10 gelesen, davon 0 neu
-  max/10/offset/10       10 gelesen, davon 0 neu
-  offset/20              10 gelesen, davon 0 neu
-  max/10/offset/20       10 gelesen, davon 0 neu
-  offset/30              10 gelesen, davon 0 neu
-  max/10/offset/30       10 gelesen, davon 0 neu
-  offset/40              10 gelesen, davon 0 neu
-  max/10/offset/40       10 gelesen, davon 0 neu
-  Ergebnis: 10 Spiele fuer diese Mannschaft
-
-Insgesamt 30 kommende Spiele (0 vergangene aussortiert).
-Lade Spielstaetten ...
-Spielstaette gefunden bei 30 von 30 Spielen.
-Datei kalender.ics geschrieben (30 Termine).
+Insgesamt 97 kommende Spiele.
+Lade Spielstaetten fuer 97 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 96 von 97 Spielen.
+Datei kalender.ics geschrieben (97 Termine).
+Datei kalender-jugend.ics geschrieben (52 Termine).
 
 Gefundene Termine:
-05.09.2026 10:00  D-Jugend       CSC Paderborn - JSG Altenautal-Etteln
-12.09.2026 11:00  D-Jugend       CSC Paderborn - TuS Sennelager
-12.09.2026 14:00  E-Jugend       SF BW Paderborn II - CSC Paderborn
-14.09.2026 17:00  D-Jugend 7er   TuS Sennelager III 7er - CSC Paderborn II 7er
-18.09.2026 17:00  E-Jugend       CSC Paderborn - SC Borchen
-19.09.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - SC Aleviten Paderborn 7er
-19.09.2026 11:30  D-Jugend       SF DJK Mastbruch II - CSC Paderborn
-25.09.2026 18:00  E-Jugend       CSC Paderborn - BV Bad Lippspringe
-26.09.2026 11:00  D-Jugend       CSC Paderborn - Hövelhofer SV
-26.09.2026 13:00  D-Jugend 7er   Hövelhofer SV II 7er - CSC Paderborn II 7er
-02.10.2026 18:30  E-Jugend       TuS Altenbeken - CSC Paderborn
-03.10.2026 11:00  D-Jugend 7er   JSG Boke II 7er - CSC Paderborn II 7er
-03.10.2026 12:00  D-Jugend       CSC Paderborn - Delbrücker SC II
-09.10.2026 18:00  E-Jugend       CSC Paderborn - TV 1875 Paderborn
-10.10.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - JSG Alfen II 7er
-10.10.2026 12:30  D-Jugend       TSV Wewer - CSC Paderborn
-16.10.2026 18:00  E-Jugend       CSC Paderborn - SF BW Paderborn II
-17.10.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - TuS Sennelager III 7er
-17.10.2026 13:00  D-Jugend       TuS Sennelager - CSC Paderborn
-07.11.2026 10:00  E-Jugend       SC Borchen - CSC Paderborn
-07.11.2026 11:00  D-Jugend       CSC Paderborn - SF DJK Mastbruch II
-07.11.2026 13:00  D-Jugend 7er   SC Aleviten Paderborn 7er - CSC Paderborn II 7er
-14.11.2026 10:00  D-Jugend       Hövelhofer SV - CSC Paderborn
-14.11.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - Hövelhofer SV II 7er
-14.11.2026 12:00  E-Jugend       BV Bad Lippspringe - CSC Paderborn
-20.11.2026 18:00  E-Jugend       CSC Paderborn - TuS Altenbeken
-21.11.2026 11:00  D-Jugend 7er   CSC Paderborn II 7er - JSG Boke II 7er
-21.11.2026 13:30  D-Jugend       Delbrücker SC II - CSC Paderborn
-28.11.2026 11:00  E-Jugend       TV 1875 Paderborn - CSC Paderborn
-28.11.2026 11:00  D-Jugend 7er   JSG Alfen II 7er - CSC Paderborn II 7er
+05.09.2026 10:00  D-Junioren         CSC Paderborn - JSG Altenautal-Etteln
+05.09.2026 12:30  C-Junioren         CSC Paderborn - TuS Sennelager
+06.09.2026 15:30  Herren             CSC Paderborn - SF DJK Mastbruch II
+09.09.2026 18:00  C-Junioren         CSC Paderborn - JSG Scharmede
+12.09.2026 11:00  D-Junioren         CSC Paderborn - TuS Sennelager
+12.09.2026 13:00  C-Junioren         CSC Paderborn - Delbrücker SC III
+12.09.2026 14:00  E-Junioren         SF BW Paderborn II - CSC Paderborn
+14.09.2026 00:00   B-Junioren   CSC Paderborn 9er - SC Grün-Weiß Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       SV Heide-Paderborn II - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       Int. FC Paderborn - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   CSC Paderborn - SC Borchen   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   JSG Anreppen II - CSC Paderborn 9er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn II 7er - SC Aleviten Paderborn 7er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   SF DJK Mastbruch II - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   SV Marienloh - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - BV Bad Lippspringe III   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SG Oberes Almetal 23   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   Gewinner aus Spiel 200241002 (PH) - CSC Paderborn 9er   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   CSC Paderborn - BV Bad Lippspringe   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn - Hövelhofer SV   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   SF BW Paderborn - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   Hövelhofer SV II 7er - CSC Paderborn II 7er   [Anstoss offen]
+14.09.2026 00:00   Herren       Türk-Gücü Paderborn II - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       SG Scharmede/​Thüle - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   CSC Paderborn - SC Grün-Weiß Paderborn II   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   TuS Altenbeken - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   JSG Boke II 7er - CSC Paderborn II 7er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn - Delbrücker SC II   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   CSC Paderborn 9er - JSG Mastbruch-Sennelager II   [Anstoss offen]
+14.09.2026 00:00   Herren       TuRa Elsen II - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SC RW Verne   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   CSC Paderborn - TV 1875 Paderborn   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   JSG Altenautal-Lichtenau - CSC Paderborn 9er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn II 7er - JSG Alfen II 7er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   TSV Wewer - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   JSG Holsen - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - SC Grün-Weiß Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       SC GW Espeln - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   CSC Paderborn - SF BW Paderborn II   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn II 7er - TuS Sennelager III 7er   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   Delbrücker SC III - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   TuS Sennelager - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   SC Grün-Weiß Paderborn II - CSC Paderborn 9er   [Anstoss offen]
+14.09.2026 00:00   Herren       SF BW Paderborn II - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       SV Schöning - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - Africa United Football Club   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - TuRa Elsen   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   CSC Paderborn 9er - JSG Anreppen II   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   SC Borchen - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn - SF DJK Mastbruch II   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   SC Aleviten Paderborn 7er - CSC Paderborn II 7er   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   CSC Paderborn - SV Marienloh   [Anstoss offen]
+14.09.2026 00:00   Herren       Suryoye Paderborn II - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       SF BW Paderborn - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   Hövelhofer SV - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn II 7er - Hövelhofer SV II 7er   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   BV Bad Lippspringe - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   CSC Paderborn - SF BW Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       SG Lichtenau/​Kleinenberg - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - TSV Wewer   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   CSC Paderborn - TuS Altenbeken   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn II 7er - JSG Boke II 7er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   Delbrücker SC II - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   SC Grün-Weiß Paderborn II - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   JSG Mastbruch-Sennelager II - CSC Paderborn 9er   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   JSG Alfen II 7er - CSC Paderborn II 7er   [Anstoss offen]
+14.09.2026 00:00   E-Junioren   TV 1875 Paderborn - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   D-Junioren   CSC Paderborn - TSV Wewer   [Anstoss offen]
+14.09.2026 00:00   C-Junioren   CSC Paderborn - JSG Holsen   [Anstoss offen]
+14.09.2026 00:00   B-Junioren   CSC Paderborn 9er - JSG Altenautal-Lichtenau   [Anstoss offen]
+14.09.2026 00:00   Herren       FC Kastrioti Stukenbrock - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       Suryoye Paderborn - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       SCV Neuenbeken - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - TV 1875 Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - TuS Egge Schwaney   [Anstoss offen]
+14.09.2026 00:00   Herren       SF DJK Mastbruch II - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - Star FC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SV Heide-Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SV 21 Brenken   [Anstoss offen]
+14.09.2026 00:00   Herren       SG Oberes Almetal 23 - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - Int. FC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SG Scharmede/​Thüle   [Anstoss offen]
+14.09.2026 00:00   Herren       BV Bad Lippspringe III - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       SC RW Verne - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - Türk-Gücü Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SC GW Espeln   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - TuRa Elsen II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SV Schöning   [Anstoss offen]
+14.09.2026 00:00   Herren       TuRa Elsen - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       SC Grün-Weiß Paderborn - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - SF BW Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - SF BW Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       Africa United Football Club - CSC Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       TSV Wewer - CSC Paderborn   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn II - Suryoye Paderborn II   [Anstoss offen]
+14.09.2026 00:00   Herren       CSC Paderborn - FC Kastrioti Stukenbrock   [Anstoss offen]
+14.09.2026 17:00   D-Junioren   TuS Sennelager III 7er - CSC Paderborn II 7er
