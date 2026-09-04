@@ -115,13 +115,18 @@ def vereinsspielplan_adressen():
     spanne = "datum-bis/%s/datum-von/%s" % (bis, von)
 
     return [
-        "https://www.fussball.de/vereinsspielplan.druck/-/%s/id/%s"
-        "/match-type/-1/max/999/mode/PRINT/show-venues/true" % (spanne, VEREIN_ID),
-        "https://www.fussball.de/vereinsspielplan.druck/-/%s/id/%s"
-        "/match-type/-1/max/999/mode/PRINT/show-venues/false" % (spanne, VEREIN_ID),
+        # Zuerst die geprueft zuverlaessige Quelle: hier stehen Datum und
+        # Uhrzeit als Text in den Ueberschriftenzeilen.
         "https://www.fussball.de/ajax.club.matchplan/-/%s/id/%s"
         "/match-type/-1/max/999/mode/PAGE/show-venues/true" % (spanne, VEREIN_ID),
+        "https://www.fussball.de/ajax.club.matchplan/-/%s/id/%s"
+        "/match-type/-1/max/999/mode/PAGE/show-filter/true" % (spanne, VEREIN_ID),
         "https://www.fussball.de/ajax.club.next.games/-/id/%s/mode/PAGE" % VEREIN_ID,
+        # Die Druckansicht liefert zwar viele Spiele, aber ohne lesbares
+        # Datum. Sie steht bewusst hinten und ergaenzt nur noch das,
+        # wozu sie ein eigenes Datum mitliefert.
+        "https://www.fussball.de/vereinsspielplan.druck/-/%s/id/%s"
+        "/match-type/-1/max/999/mode/PRINT/show-venues/true" % (spanne, VEREIN_ID),
     ]
 
 
@@ -270,6 +275,10 @@ def spiele_auslesen(html):
             "ort": "",
             "zeit_bekannt": aktuelle_zeit is not None,
         })
+        # Wichtig: Datum und Zeit nach jedem Spiel vergessen. Sonst wuerde
+        # ein Spiel ohne eigene Datumszeile faelschlich das Datum des
+        # vorherigen Spiels erben. Lieber gar kein Eintrag als ein falscher.
+        aktuelles_datum = None
         aktuelle_zeit = None
 
     return gefunden
@@ -434,6 +443,25 @@ def einsammeln(html, alle, grenze):
     return len(spiele), neu, alt
 
 
+def haeufung_pruefen(spiele):
+    """Warnt, wenn auffaellig viele Spiele auf denselben Tag fallen.
+
+    Das war das Erkennungszeichen des Datumsfehlers aus Fassung 4.
+    """
+    zaehler = {}
+    for spiel in spiele:
+        tag = spiel["beginn"].date()
+        zaehler[tag] = zaehler.get(tag, 0) + 1
+    if not zaehler:
+        return
+    tag, anzahl = max(zaehler.items(), key=lambda p: p[1])
+    if anzahl > 12 and anzahl > len(spiele) * 0.25:
+        notiz("")
+        notiz("ACHTUNG: %d von %d Spielen liegen auf dem %s."
+              % (anzahl, len(spiele), tag.strftime("%d.%m.%Y")))
+        notiz("Das sieht nach einem Datumsfehler aus - bitte melden.")
+
+
 def main():
     notiz("Lauf am %s" % datetime.now().strftime("%d.%m.%Y %H:%M"))
     grenze = datetime.now() - timedelta(days=RUECKBLICK_TAGE)
@@ -477,6 +505,7 @@ def main():
     spiele = list(alle.values())
     notiz("")
     notiz("Insgesamt %d kommende Spiele." % len(spiele))
+    haeufung_pruefen(spiele)
 
     if not spiele:
         notiz("")
