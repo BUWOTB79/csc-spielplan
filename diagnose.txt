@@ -1,45 +1,53 @@
-Lauf am 03.09.2026 23:53
+Lauf am 04.09.2026 00:34
 
 Mannschaft: E-Jugend
-  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/02GNQ1A98K000000VS5489B2VULC3I30
-  9 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/02GNQ1A98K000000VS5489B2VULC3I30
-  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/02GNQ1A98K000000VS5489B2VULC3I30
+  team-id/02GNQ1A98K000000VS5489B2VULC3I30 10 gelesen, davon 10 neu
+  max/30                 10 gelesen, davon 0 neu
+  max/50                 10 gelesen, davon 0 neu
+  offset/10              10 gelesen, davon 0 neu
+  max/10/offset/10       10 gelesen, davon 0 neu
+  offset/20              10 gelesen, davon 0 neu
+  max/10/offset/20       10 gelesen, davon 0 neu
+  offset/30              10 gelesen, davon 0 neu
+  max/10/offset/30       10 gelesen, davon 0 neu
+  offset/40              10 gelesen, davon 0 neu
+  max/10/offset/40       10 gelesen, davon 0 neu
+  Ergebnis: 10 Spiele fuer diese Mannschaft
 
 Mannschaft: D-Jugend
-  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/02EO22JI3S000000VS5489B2VSAS84KM
-  10 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/02EO22JI3S000000VS5489B2VSAS84KM
-  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/02EO22JI3S000000VS5489B2VSAS84KM
+  team-id/02EO22JI3S000000VS5489B2VSAS84KM 10 gelesen, davon 10 neu
+  max/30                 10 gelesen, davon 0 neu
+  max/50                 10 gelesen, davon 0 neu
+  offset/10              10 gelesen, davon 0 neu
+  max/10/offset/10       10 gelesen, davon 0 neu
+  offset/20              10 gelesen, davon 0 neu
+  max/10/offset/20       10 gelesen, davon 0 neu
+  offset/30              10 gelesen, davon 0 neu
+  max/10/offset/30       10 gelesen, davon 0 neu
+  offset/40              10 gelesen, davon 0 neu
+  max/10/offset/40       10 gelesen, davon 0 neu
+  Ergebnis: 10 Spiele fuer diese Mannschaft
 
 Mannschaft: D-Jugend 7er
-  10 Spiele aus https://www.fussball.de/ajax.team.next.games/-/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
-  0 Spiele aus https://www.fussball.de/ajax.team.prev.games/-/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
-  0 Spiele aus https://www.fussball.de/mannschaft/-/-/saison/2627/team-id/030T4SU0TC000000VS5489BSVSO3A7B3
+  team-id/030T4SU0TC000000VS5489BSVSO3A7B3 10 gelesen, davon 10 neu
+  max/30                 10 gelesen, davon 0 neu
+  max/50                 10 gelesen, davon 0 neu
+  offset/10              10 gelesen, davon 0 neu
+  max/10/offset/10       10 gelesen, davon 0 neu
+  offset/20              10 gelesen, davon 0 neu
+  max/10/offset/20       10 gelesen, davon 0 neu
+  offset/30              10 gelesen, davon 0 neu
+  max/10/offset/30       10 gelesen, davon 0 neu
+  offset/40              10 gelesen, davon 0 neu
+  max/10/offset/40       10 gelesen, davon 0 neu
+  Ergebnis: 10 Spiele fuer diese Mannschaft
 
-Insgesamt 49 verschiedene Spiele.
+Insgesamt 30 kommende Spiele (0 vergangene aussortiert).
 Lade Spielstaetten ...
-Spielstaette gefunden bei 49 von 49 Spielen.
-Datei kalender.ics geschrieben (49 Termine).
+Spielstaette gefunden bei 30 von 30 Spielen.
+Datei kalender.ics geschrieben (30 Termine).
 
 Gefundene Termine:
-09.05.2026 12:30  E-Jugend       CSC Paderborn - TuS Egge Schwaney
-26.05.2026 17:30  E-Jugend       SV RW Haaren - CSC Paderborn
-30.05.2026 10:00  E-Jugend       TuS Sennelager - CSC Paderborn
-02.06.2026 17:30  E-Jugend       CSC Paderborn - SF BW Paderborn
-07.06.2026 16:45  D-Jugend       SC GW Espeln - CSC Paderborn
-07.06.2026 17:15  D-Jugend       CSC Paderborn - FC Hövelriege
-08.06.2026 17:30  D-Jugend       SF BW Paderborn II - CSC Paderborn
-13.06.2026 11:00  E-Jugend       SV Heide-Paderborn II - CSC Paderborn
-13.06.2026 11:00  D-Jugend       JSG Schlangen-Oesterholz-Kohlstädt - CSC Paderborn
-20.06.2026 10:00  D-Jugend       CSC Paderborn - TV 1875 Paderborn
-04.07.2026 09:43  E-Jugend       CSC Paderborn - SV 21 Büren
-04.07.2026 10:09  E-Jugend       SV Marienloh - CSC Paderborn
-04.07.2026 10:35  E-Jugend       SV 03 Geseke I - CSC Paderborn
-04.07.2026 11:14  E-Jugend       CSC Paderborn - VfB 1910 Salzkotten
-12.07.2026 12:14  D-Jugend       CSC Paderborn - TuS Sennelager II
-12.07.2026 12:42  D-Jugend       CSC Paderborn - TSV Wewer III
-12.07.2026 13:10  D-Jugend       VfB 1910 Salzkotten III - CSC Paderborn
-12.07.2026 13:37  D-Jugend       CSC Paderborn - SV Marienloh
-12.07.2026 14:05  D-Jugend       TuRa Elsen II - CSC Paderborn
 05.09.2026 10:00  D-Jugend       CSC Paderborn - JSG Altenautal-Etteln
 12.09.2026 11:00  D-Jugend       CSC Paderborn - TuS Sennelager
 12.09.2026 14:00  E-Jugend       SF BW Paderborn II - CSC Paderborn
