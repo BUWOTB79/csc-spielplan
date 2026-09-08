@@ -1,14 +1,14 @@
-Lauf am 07.09.2026 04:36
+Lauf am 08.09.2026 04:36
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       97 gelesen,  96 neu,   0 vergangen
-  ajax.club.matchplan                       97 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       96 gelesen,  95 neu,   0 vergangen
+  ajax.club.matchplan                       96 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
-  Herren II             9 gelesen,  0 neu
+  Herren II            10 gelesen,  0 neu
   B-Junioren 9er        9 gelesen,  0 neu
   C-Junioren           10 gelesen,  0 neu
   D-Junioren           10 gelesen,  0 neu
@@ -16,14 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren           10 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 96 kommende Spiele.
-Lade Spielstaetten fuer 96 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 95 von 96 Spielen.
-Datei kalender.ics geschrieben (96 Termine).
+Insgesamt 95 kommende Spiele.
+Lade Spielstaetten fuer 95 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 94 von 95 Spielen.
+Datei kalender.ics geschrieben (95 Termine).
 Datei kalender-jugend.ics geschrieben (51 Termine).
 
 Gefundene Termine:
-06.09.2026 15:30  Herren             CSC Paderborn - SF DJK Mastbruch II
 08.09.2026 17:30  D-Junioren         CSC Paderborn - SF BW Paderborn
 09.09.2026 18:00  C-Junioren         CSC Paderborn - JSG Scharmede
 12.09.2026 11:00  D-Junioren         CSC Paderborn - TuS Sennelager
@@ -35,9 +34,9 @@ Gefundene Termine:
 14.09.2026 17:00  D-Junioren         TuS Sennelager III 7er - CSC Paderborn II 7er
 18.09.2026 17:00  E-Junioren         CSC Paderborn - SC Borchen
 18.09.2026 18:30  B-Junioren         JSG Anreppen II - CSC Paderborn 9er
+18.09.2026 18:30  C-Junioren         CSC Paderborn - SV Marienloh
 19.09.2026 11:00  D-Junioren         CSC Paderborn II 7er - SC Aleviten Paderborn 7er
 19.09.2026 11:30  D-Junioren         SF DJK Mastbruch II - CSC Paderborn
-19.09.2026 12:30  C-Junioren         SV Marienloh - CSC Paderborn
 20.09.2026 13:00  Herren             CSC Paderborn II - BV Bad Lippspringe III
 20.09.2026 15:30  Herren             CSC Paderborn - SG Oberes Almetal 23
 23.09.2026 18:30  B-Junioren         Gewinner aus Spiel 200241002 (PH) - CSC Paderborn 9er
@@ -73,8 +72,8 @@ Gefundene Termine:
 06.11.2026 18:30  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
 07.11.2026 10:00  E-Junioren         SC Borchen - CSC Paderborn
 07.11.2026 11:00  D-Junioren         CSC Paderborn - SF DJK Mastbruch II
+07.11.2026 12:30  C-Junioren         SV Marienloh - CSC Paderborn
 07.11.2026 13:00  D-Junioren         SC Aleviten Paderborn 7er - CSC Paderborn II 7er
-07.11.2026 13:00  C-Junioren         CSC Paderborn - SV Marienloh
 08.11.2026 12:30  Herren             Suryoye Paderborn II - CSC Paderborn II
 08.11.2026 15:00  Herren             SF BW Paderborn - CSC Paderborn
 14.11.2026 10:00  D-Junioren         Hövelhofer SV - CSC Paderborn
