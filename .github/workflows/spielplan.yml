@@ -2,7 +2,7 @@ name: Spielplan aktualisieren
 
 on:
   schedule:
-    # Jeden Tag um 5:30 Uhr deutscher Zeit (Winterzeit) bzw. 6:30 (Sommerzeit).
+    # Alle vier Stunden, jeweils um halb.
     - cron: '30 */4 * * *'
   # Erlaubt zusaetzlich den Start von Hand ueber den Knopf "Run workflow".
   workflow_dispatch:
