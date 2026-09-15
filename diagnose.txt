@@ -1,8 +1,8 @@
-Lauf am 15.09.2026 16:42
+Lauf am 15.09.2026 20:40
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       87 gelesen,  87 neu,   0 vergangen
-  ajax.club.matchplan                       87 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       87 gelesen,  86 neu,   1 vergangen
+  ajax.club.matchplan                       87 gelesen,   0 neu,   1 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -16,14 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren            9 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 87 kommende Spiele.
-Lade Spielstaetten fuer 87 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 87 von 87 Spielen.
-Datei kalender.ics geschrieben (87 Termine).
-Datei kalender-jugend.ics geschrieben (45 Termine).
+Insgesamt 86 kommende Spiele.
+Lade Spielstaetten fuer 86 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 86 von 86 Spielen.
+Datei kalender.ics geschrieben (86 Termine).
+Datei kalender-jugend.ics geschrieben (44 Termine).
 
 Gefundene Termine:
-14.09.2026 17:00  D-Junioren         TuS Sennelager III 7er - CSC Paderborn II 7er
 18.09.2026 17:00  E-Junioren         CSC Paderborn - SC Borchen
 18.09.2026 18:30  C-Junioren         CSC Paderborn - SV Marienloh
 18.09.2026 18:30  B-Junioren         JSG Anreppen II - CSC Paderborn 9er
