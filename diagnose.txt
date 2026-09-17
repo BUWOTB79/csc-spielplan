@@ -1,4 +1,4 @@
-Lauf am 17.09.2026 16:41
+Lauf am 17.09.2026 20:40
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       86 gelesen,  86 neu,   0 vergangen
@@ -27,7 +27,7 @@ Gefundene Termine:
 18.09.2026 18:30  C-Junioren         CSC Paderborn - SV Marienloh
 18.09.2026 18:30  B-Junioren         JSG Anreppen II - CSC Paderborn 9er
 19.09.2026 10:00  D-Junioren         CSC Paderborn II 7er - SC Aleviten Paderborn 7er
-19.09.2026 11:30  D-Junioren         SF DJK Mastbruch II - CSC Paderborn
+19.09.2026 10:00  D-Junioren         SF DJK Mastbruch II - CSC Paderborn
 20.09.2026 13:00  Herren             CSC Paderborn II - BV Bad Lippspringe III
 20.09.2026 15:30  Herren             CSC Paderborn - SG Oberes Almetal 23
 23.09.2026 18:30  B-Junioren         SC Grün-Weiß Paderborn - CSC Paderborn 9er
