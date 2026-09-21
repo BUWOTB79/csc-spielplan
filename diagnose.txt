@@ -1,14 +1,14 @@
-Lauf am 21.09.2026 12:43
+Lauf am 21.09.2026 16:41
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       81 gelesen,  81 neu,   0 vergangen
-  ajax.club.matchplan                       81 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       81 gelesen,  79 neu,   2 vergangen
+  ajax.club.matchplan                       81 gelesen,   0 neu,   2 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
-  Herren II             8 gelesen,  0 neu
+  Herren II             9 gelesen,  0 neu
   B-Junioren 9er        7 gelesen,  0 neu
   C-Junioren            8 gelesen,  0 neu
   D-Junioren            8 gelesen,  0 neu
@@ -16,15 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren            8 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 81 kommende Spiele.
-Lade Spielstaetten fuer 81 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 81 von 81 Spielen.
-Datei kalender.ics geschrieben (81 Termine).
+Insgesamt 79 kommende Spiele.
+Lade Spielstaetten fuer 79 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 79 von 79 Spielen.
+Datei kalender.ics geschrieben (79 Termine).
 Datei kalender-jugend.ics geschrieben (39 Termine).
 
 Gefundene Termine:
-20.09.2026 13:00  Herren             CSC Paderborn II - BV Bad Lippspringe III
-20.09.2026 15:30  Herren             CSC Paderborn - SG Oberes Almetal 23
 23.09.2026 18:30  B-Junioren         SC Grün-Weiß Paderborn - CSC Paderborn 9er
 25.09.2026 18:00  E-Junioren         CSC Paderborn - BV Bad Lippspringe
 26.09.2026 11:00  D-Junioren         CSC Paderborn - Hövelhofer SV
