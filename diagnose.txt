@@ -1,4 +1,4 @@
-Lauf am 21.09.2026 16:41
+Lauf am 21.09.2026 20:39
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       81 gelesen,  79 neu,   2 vergangen
@@ -8,7 +8,7 @@ Vereinsspielplan (alle Mannschaften auf einmal):
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
-  Herren II             9 gelesen,  0 neu
+  Herren II             8 gelesen,  0 neu
   B-Junioren 9er        7 gelesen,  0 neu
   C-Junioren            8 gelesen,  0 neu
   D-Junioren            8 gelesen,  0 neu
