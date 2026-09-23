@@ -1,4 +1,4 @@
-Lauf am 23.09.2026 08:42
+Lauf am 23.09.2026 12:46
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       79 gelesen,  79 neu,   0 vergangen
@@ -25,7 +25,7 @@ Datei kalender-jugend.ics geschrieben (39 Termine).
 Gefundene Termine:
 23.09.2026 18:30  B-Junioren         SC Grün-Weiß Paderborn - CSC Paderborn 9er
 25.09.2026 18:00  E-Junioren         CSC Paderborn - BV Bad Lippspringe
-26.09.2026 11:00  D-Junioren         CSC Paderborn - Hövelhofer SV
+26.09.2026 10:30  D-Junioren         CSC Paderborn - Hövelhofer SV
 26.09.2026 13:00  C-Junioren         SF BW Paderborn - CSC Paderborn
 26.09.2026 13:00  D-Junioren         Hövelhofer SV II 7er - CSC Paderborn II 7er
 27.09.2026 12:00  Herren             Türk-Gücü Paderborn II - CSC Paderborn II
