@@ -1,26 +1,26 @@
-Lauf am 24.09.2026 04:41
+Lauf am 24.09.2026 08:43
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       79 gelesen,  79 neu,   0 vergangen
-  ajax.club.matchplan                       79 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       80 gelesen,  80 neu,   0 vergangen
+  ajax.club.matchplan                       80 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
   Herren II             9 gelesen,  0 neu
-  B-Junioren 9er        6 gelesen,  0 neu
+  B-Junioren 9er        7 gelesen,  0 neu
   C-Junioren            8 gelesen,  0 neu
   D-Junioren            8 gelesen,  0 neu
   D-Junioren II 7er     8 gelesen,  0 neu
   E-Junioren            8 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 79 kommende Spiele.
-Lade Spielstaetten fuer 79 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 79 von 79 Spielen.
-Datei kalender.ics geschrieben (79 Termine).
-Datei kalender-jugend.ics geschrieben (39 Termine).
+Insgesamt 80 kommende Spiele.
+Lade Spielstaetten fuer 80 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 80 von 80 Spielen.
+Datei kalender.ics geschrieben (80 Termine).
+Datei kalender-jugend.ics geschrieben (40 Termine).
 
 Gefundene Termine:
 23.09.2026 18:30  B-Junioren         SC Grün-Weiß Paderborn - CSC Paderborn 9er
@@ -37,6 +37,7 @@ Gefundene Termine:
 03.10.2026 14:00  B-Junioren         CSC Paderborn 9er - JSG Mastbruch-Sennelager II
 04.10.2026 12:00  Herren             TuRa Elsen II - CSC Paderborn II
 04.10.2026 15:30  Herren             CSC Paderborn - SC RW Verne
+07.10.2026 18:30  B-Junioren         CSC Paderborn 9er - Gewinner aus Spiel 200241009 (PH)
 09.10.2026 18:00  E-Junioren         CSC Paderborn - TV 1875 Paderborn
 09.10.2026 19:00  B-Junioren         JSG Altenautal-Lichtenau - CSC Paderborn 9er
 10.10.2026 11:00  D-Junioren         CSC Paderborn II 7er - JSG Alfen II 7er
