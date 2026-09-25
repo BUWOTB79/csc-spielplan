@@ -1,8 +1,8 @@
-Lauf am 24.09.2026 20:42
+Lauf am 25.09.2026 00:45
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       80 gelesen,  79 neu,   1 vergangen
-  ajax.club.matchplan                       80 gelesen,   0 neu,   1 vergangen
+  ajax.club.matchplan                       79 gelesen,  79 neu,   0 vergangen
+  ajax.club.matchplan                       79 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
