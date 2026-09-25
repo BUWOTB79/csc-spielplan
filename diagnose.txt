@@ -1,4 +1,4 @@
-Lauf am 25.09.2026 16:43
+Lauf am 25.09.2026 20:41
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       79 gelesen,  79 neu,   0 vergangen
@@ -13,7 +13,7 @@ Einzelabfragen zur Absicherung:
   C-Junioren            8 gelesen,  0 neu
   D-Junioren            8 gelesen,  0 neu
   D-Junioren II 7er     8 gelesen,  0 neu
-  E-Junioren            8 gelesen,  0 neu
+  E-Junioren            7 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
 Insgesamt 79 kommende Spiele.
