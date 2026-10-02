@@ -1,4 +1,4 @@
-Lauf am 02.10.2026 16:45
+Lauf am 02.10.2026 20:44
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       73 gelesen,  73 neu,   0 vergangen
@@ -10,10 +10,10 @@ Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
   Herren II             8 gelesen,  0 neu
   B-Junioren 9er        7 gelesen,  0 neu
-  C-Junioren            7 gelesen,  0 neu
+  C-Junioren            6 gelesen,  0 neu
   D-Junioren            7 gelesen,  0 neu
   D-Junioren II 7er     7 gelesen,  0 neu
-  E-Junioren            7 gelesen,  0 neu
+  E-Junioren            6 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
 Insgesamt 73 kommende Spiele.
