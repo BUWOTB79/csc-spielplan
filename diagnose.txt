@@ -1,4 +1,4 @@
-Lauf am 07.10.2026 15:42
+Lauf am 07.10.2026 21:28
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       66 gelesen,  66 neu,   0 vergangen
@@ -9,7 +9,7 @@ Vereinsspielplan (alle Mannschaften auf einmal):
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
   Herren II             7 gelesen,  0 neu
-  B-Junioren 9er        6 gelesen,  0 neu
+  B-Junioren 9er        5 gelesen,  0 neu
   C-Junioren            6 gelesen,  0 neu
   D-Junioren            6 gelesen,  0 neu
   D-Junioren II 7er     6 gelesen,  0 neu
