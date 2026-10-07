@@ -1,4 +1,4 @@
-Lauf am 06.10.2026 23:59
+Lauf am 07.10.2026 06:19
 
 Vereinsspielplan (alle Mannschaften auf einmal):
   ajax.club.matchplan                       66 gelesen,  66 neu,   0 vergangen
@@ -54,10 +54,10 @@ Gefundene Termine:
 15.11.2026 13:00  Herren             SG Lichtenau/​Kleinenberg - CSC Paderborn II
 15.11.2026 15:30  Herren             CSC Paderborn - TSV Wewer
 20.11.2026 18:00  E-Junioren         CSC Paderborn - TuS Altenbeken
+20.11.2026 19:20  B-Junioren         JSG Mastbruch-Sennelager II - CSC Paderborn 9er
 21.11.2026 11:00  D-Junioren         CSC Paderborn II 7er - JSG Boke II 7er
 21.11.2026 13:30  D-Junioren         Delbrücker SC II - CSC Paderborn
 21.11.2026 13:30  C-Junioren         SC Grün-Weiß Paderborn II - CSC Paderborn
-21.11.2026 16:30  B-Junioren         JSG Mastbruch-Sennelager II - CSC Paderborn 9er
 28.11.2026 11:00  D-Junioren         JSG Alfen II 7er - CSC Paderborn II 7er
 28.11.2026 11:00  E-Junioren         TV 1875 Paderborn - CSC Paderborn
 28.11.2026 11:00  D-Junioren         CSC Paderborn - TSV Wewer
