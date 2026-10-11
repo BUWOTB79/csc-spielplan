@@ -1,8 +1,8 @@
-Lauf am 11.10.2026 06:12
+Lauf am 11.10.2026 15:01
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       63 gelesen,  63 neu,   0 vergangen
-  ajax.club.matchplan                       63 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       63 gelesen,  60 neu,   3 vergangen
+  ajax.club.matchplan                       63 gelesen,   0 neu,   3 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -16,16 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren            5 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 63 kommende Spiele.
-Lade Spielstaetten fuer 63 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 63 von 63 Spielen.
-Datei kalender.ics geschrieben (63 Termine).
-Datei kalender-jugend.ics geschrieben (27 Termine).
+Insgesamt 60 kommende Spiele.
+Lade Spielstaetten fuer 60 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 60 von 60 Spielen.
+Datei kalender.ics geschrieben (60 Termine).
+Datei kalender-jugend.ics geschrieben (24 Termine).
 
 Gefundene Termine:
-10.10.2026 11:00  D-Junioren         CSC Paderborn II 7er - JSG Alfen II 7er
-10.10.2026 12:30  D-Junioren         TSV Wewer - CSC Paderborn
-10.10.2026 14:00  C-Junioren         JSG Holsen - CSC Paderborn
 11.10.2026 13:00  Herren             CSC Paderborn II - SC Grün-Weiß Paderborn
 11.10.2026 15:00  Herren             SC GW Espeln - CSC Paderborn
 16.10.2026 18:00  E-Junioren         CSC Paderborn - SF BW Paderborn II
