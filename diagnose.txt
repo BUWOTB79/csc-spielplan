@@ -1,8 +1,8 @@
-Lauf am 10.10.2026 23:44
+Lauf am 11.10.2026 06:12
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       65 gelesen,  63 neu,   2 vergangen
-  ajax.club.matchplan                       65 gelesen,   0 neu,   2 vergangen
+  ajax.club.matchplan                       63 gelesen,  63 neu,   0 vergangen
+  ajax.club.matchplan                       63 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
