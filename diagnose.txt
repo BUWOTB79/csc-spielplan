@@ -1,8 +1,8 @@
-Lauf am 15.10.2026 13:37
+Lauf am 15.10.2026 19:58
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       59 gelesen,  58 neu,   0 vergangen
-  ajax.club.matchplan                       59 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       60 gelesen,  59 neu,   0 vergangen
+  ajax.club.matchplan                       60 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
 
@@ -10,17 +10,17 @@ Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
   Herren II             7 gelesen,  0 neu
   B-Junioren 9er        4 gelesen,  0 neu
-  C-Junioren            5 gelesen,  0 neu
+  C-Junioren            6 gelesen,  0 neu
   D-Junioren            5 gelesen,  0 neu
   D-Junioren II 7er     5 gelesen,  0 neu
   E-Junioren            5 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 58 kommende Spiele.
-Lade Spielstaetten fuer 58 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 58 von 58 Spielen.
-Datei kalender.ics geschrieben (58 Termine).
-Datei kalender-jugend.ics geschrieben (24 Termine).
+Insgesamt 59 kommende Spiele.
+Lade Spielstaetten fuer 59 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 59 von 59 Spielen.
+Datei kalender.ics geschrieben (59 Termine).
+Datei kalender-jugend.ics geschrieben (25 Termine).
 
 Gefundene Termine:
 16.10.2026 18:00  E-Junioren         CSC Paderborn - SF BW Paderborn II
@@ -31,6 +31,7 @@ Gefundene Termine:
 18.10.2026 15:00  Herren             SV Schöning - CSC Paderborn
 25.10.2026 13:00  Herren             CSC Paderborn II - Africa United Football Club
 25.10.2026 15:30  Herren             CSC Paderborn - TuRa Elsen
+02.11.2026 17:45  C-Junioren         TSV Wewer - CSC Paderborn
 03.11.2026 18:30  D-Junioren         TuS Sennelager - CSC Paderborn
 06.11.2026 18:30  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
 07.11.2026 10:00  E-Junioren         SC Borchen - CSC Paderborn
