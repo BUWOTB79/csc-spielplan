@@ -1,10 +1,10 @@
-Lauf am 23.10.2026 05:12
+Lauf am 23.10.2026 13:43
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       53 gelesen,  53 neu,   0 vergangen
-  ajax.club.matchplan                       53 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       54 gelesen,  53 neu,   0 vergangen
+  ajax.club.matchplan                       54 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
-  vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
+  vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
@@ -27,7 +27,7 @@ Gefundene Termine:
 25.10.2026 15:30  Herren             CSC Paderborn - TuRa Elsen
 02.11.2026 17:45  C-Junioren         TSV Wewer - CSC Paderborn
 03.11.2026 18:30  D-Junioren         TuS Sennelager - CSC Paderborn
-06.11.2026 18:30  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
+04.11.2026 19:00  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
 07.11.2026 10:00  E-Junioren         SC Borchen - CSC Paderborn
 07.11.2026 11:00  D-Junioren         CSC Paderborn - SF DJK Mastbruch II
 07.11.2026 12:30  C-Junioren         SV Marienloh - CSC Paderborn
