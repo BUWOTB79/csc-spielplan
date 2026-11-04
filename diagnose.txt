@@ -1,8 +1,8 @@
-Lauf am 03.11.2026 19:43
+Lauf am 04.11.2026 00:47
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       52 gelesen,  50 neu,   1 vergangen
-  ajax.club.matchplan                       52 gelesen,   0 neu,   1 vergangen
+  ajax.club.matchplan                       51 gelesen,  50 neu,   0 vergangen
+  ajax.club.matchplan                       51 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
 
@@ -11,7 +11,7 @@ Einzelabfragen zur Absicherung:
   Herren II             8 gelesen,  0 neu
   B-Junioren 9er        3 gelesen,  0 neu
   C-Junioren            4 gelesen,  0 neu
-  D-Junioren            5 gelesen,  0 neu
+  D-Junioren            4 gelesen,  0 neu
   D-Junioren II 7er     4 gelesen,  0 neu
   E-Junioren            4 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
@@ -27,7 +27,7 @@ Gefundene Termine:
 04.11.2026 19:00  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
 07.11.2026 10:00  E-Junioren         SC Borchen - CSC Paderborn
 07.11.2026 11:00  D-Junioren         CSC Paderborn - SF DJK Mastbruch II
-07.11.2026 12:30  C-Junioren         SV Marienloh - CSC Paderborn
+07.11.2026 11:45  C-Junioren         SV Marienloh - CSC Paderborn
 07.11.2026 13:00  D-Junioren         SC Aleviten Paderborn 7er - CSC Paderborn II 7er
 08.11.2026 12:30  Herren             Suryoye Paderborn II - CSC Paderborn II
 08.11.2026 15:00  Herren             SF BW Paderborn - CSC Paderborn
