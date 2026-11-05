@@ -1,10 +1,10 @@
-Lauf am 05.11.2026 12:39
+Lauf am 05.11.2026 22:11
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       50 gelesen,  49 neu,   0 vergangen
-  ajax.club.matchplan                       50 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       50 gelesen,  48 neu,   2 vergangen
+  ajax.club.matchplan                       50 gelesen,   0 neu,   2 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
-  vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
+  vereinsspielplan.druck                     1 gelesen,   0 neu,   1 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
@@ -16,14 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren            4 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 49 kommende Spiele.
-Lade Spielstaetten fuer 49 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 49 von 49 Spielen.
-Datei kalender.ics geschrieben (49 Termine).
-Datei kalender-jugend.ics geschrieben (19 Termine).
+Insgesamt 48 kommende Spiele.
+Lade Spielstaetten fuer 48 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 48 von 48 Spielen.
+Datei kalender.ics geschrieben (48 Termine).
+Datei kalender-jugend.ics geschrieben (18 Termine).
 
 Gefundene Termine:
-04.11.2026 19:00  B-Junioren         CSC Paderborn 9er - JSG Anreppen II
 07.11.2026 10:00  E-Junioren         SC Borchen - CSC Paderborn
 07.11.2026 11:00  D-Junioren         CSC Paderborn - SF DJK Mastbruch II
 07.11.2026 11:45  C-Junioren         SV Marienloh - CSC Paderborn
