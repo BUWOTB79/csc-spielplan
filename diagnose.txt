@@ -1,8 +1,8 @@
-Lauf am 10.11.2026 02:51
+Lauf am 10.11.2026 12:53
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       42 gelesen,  42 neu,   0 vergangen
-  ajax.club.matchplan                       42 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       43 gelesen,  43 neu,   0 vergangen
+  ajax.club.matchplan                       43 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                       9 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -16,10 +16,10 @@ Einzelabfragen zur Absicherung:
   E-Junioren            3 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 42 kommende Spiele.
-Lade Spielstaetten fuer 42 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 42 von 42 Spielen.
-Datei kalender.ics geschrieben (42 Termine).
+Insgesamt 43 kommende Spiele.
+Lade Spielstaetten fuer 43 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 43 von 43 Spielen.
+Datei kalender.ics geschrieben (43 Termine).
 Datei kalender-jugend.ics geschrieben (14 Termine).
 
 Gefundene Termine:
@@ -41,6 +41,7 @@ Gefundene Termine:
 28.11.2026 15:00  B-Junioren         CSC Paderborn 9er - JSG Altenautal-Lichtenau
 29.11.2026 14:30  Herren             FC Kastrioti Stukenbrock - CSC Paderborn
 06.12.2026 15:00  Herren             Suryoye Paderborn - CSC Paderborn
+13.02.2027 13:00  Herren             CSC Paderborn - SC Ostenland
 28.02.2027 15:00  Herren             SCV Neuenbeken - CSC Paderborn
 07.03.2027 13:00  Herren             CSC Paderborn II - TV 1875 Paderborn
 07.03.2027 15:30  Herren             CSC Paderborn - TuS Egge Schwaney
