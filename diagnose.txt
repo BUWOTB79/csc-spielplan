@@ -1,14 +1,14 @@
-Lauf am 15.11.2026 06:59
+Lauf am 15.11.2026 15:46
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       43 gelesen,  43 neu,   0 vergangen
-  ajax.club.matchplan                       43 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       44 gelesen,  40 neu,   4 vergangen
+  ajax.club.matchplan                       44 gelesen,   0 neu,   4 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
-  Herren II             8 gelesen,  0 neu
+  Herren II             7 gelesen,  0 neu
   B-Junioren 9er        2 gelesen,  0 neu
   C-Junioren            2 gelesen,  0 neu
   D-Junioren            2 gelesen,  0 neu
@@ -16,17 +16,13 @@ Einzelabfragen zur Absicherung:
   E-Junioren            2 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 43 kommende Spiele.
-Lade Spielstaetten fuer 43 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 43 von 43 Spielen.
-Datei kalender.ics geschrieben (43 Termine).
-Datei kalender-jugend.ics geschrieben (14 Termine).
+Insgesamt 40 kommende Spiele.
+Lade Spielstaetten fuer 40 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 40 von 40 Spielen.
+Datei kalender.ics geschrieben (40 Termine).
+Datei kalender-jugend.ics geschrieben (10 Termine).
 
 Gefundene Termine:
-14.11.2026 10:00  D-Junioren         Hövelhofer SV - CSC Paderborn
-14.11.2026 11:00  D-Junioren         CSC Paderborn II 7er - Hövelhofer SV II 7er
-14.11.2026 12:00  E-Junioren         BV Bad Lippspringe - CSC Paderborn
-14.11.2026 13:00  C-Junioren         CSC Paderborn - SF BW Paderborn
 15.11.2026 13:00  Herren             SG Lichtenau/​Kleinenberg - CSC Paderborn II
 15.11.2026 15:30  Herren             CSC Paderborn - TSV Wewer
 20.11.2026 18:00  E-Junioren         CSC Paderborn - TuS Altenbeken
@@ -42,6 +38,7 @@ Gefundene Termine:
 29.11.2026 14:30  Herren             FC Kastrioti Stukenbrock - CSC Paderborn
 06.12.2026 15:00  Herren             Suryoye Paderborn - CSC Paderborn
 13.02.2027 13:00  Herren             CSC Paderborn - SC Ostenland
+19.02.2027 19:30  Herren             CSC Paderborn - Hövelhofer SV II
 28.02.2027 15:00  Herren             SCV Neuenbeken - CSC Paderborn
 07.03.2027 13:00  Herren             CSC Paderborn II - TV 1875 Paderborn
 07.03.2027 15:30  Herren             CSC Paderborn - TuS Egge Schwaney
