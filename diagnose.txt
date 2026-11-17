@@ -1,8 +1,8 @@
-Lauf am 17.11.2026 03:03
+Lauf am 17.11.2026 13:44
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       44 gelesen,  44 neu,   0 vergangen
-  ajax.club.matchplan                       44 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       58 gelesen,  58 neu,   0 vergangen
+  ajax.club.matchplan                       58 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -16,11 +16,11 @@ Einzelabfragen zur Absicherung:
   E-Junioren            2 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 44 kommende Spiele.
-Lade Spielstaetten fuer 44 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 44 von 44 Spielen.
-Datei kalender.ics geschrieben (44 Termine).
-Datei kalender-jugend.ics geschrieben (16 Termine).
+Insgesamt 58 kommende Spiele.
+Lade Spielstaetten fuer 58 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 58 von 58 Spielen.
+Datei kalender.ics geschrieben (58 Termine).
+Datei kalender-jugend.ics geschrieben (30 Termine).
 
 Gefundene Termine:
 20.11.2026 18:00  E-Junioren         CSC Paderborn - TuS Altenbeken
@@ -35,12 +35,26 @@ Gefundene Termine:
 28.11.2026 15:00  B-Junioren         CSC Paderborn 9er - JSG Altenautal-Lichtenau
 29.11.2026 14:30  Herren             FC Kastrioti Stukenbrock - CSC Paderborn
 06.12.2026 15:00  Herren             Suryoye Paderborn - CSC Paderborn
+12.12.2026 14:30  C-Junioren         FSV Bad Wünnenberg-Leiberg - CSC Paderborn
+12.12.2026 15:18  C-Junioren         JSG Weine - CSC Paderborn
+12.12.2026 16:06  C-Junioren         CSC Paderborn - TSV Wewer
+12.12.2026 16:42  C-Junioren         SF BW Paderborn - CSC Paderborn
+12.12.2026 17:06  C-Junioren         CSC Paderborn - TuS Sennelager
+13.12.2026 10:30  D-Junioren         CSC Paderborn - JSG Hegensdorf
+13.12.2026 11:30  D-Junioren         CSC Paderborn - JSG Scharmede
+13.12.2026 12:45  D-Junioren         TuS Sennelager - CSC Paderborn
 13.12.2026 15:12  C-Junioren         JSG Hohenwepel/​M-O-H-N-D-D - CSC Paderborn
 13.12.2026 16:00  C-Junioren         CSC Paderborn - SC Bad Salzuflen
 13.12.2026 16:48  C-Junioren         SG FA Herringhausen/​Eickum - CSC Paderborn
 13.12.2026 17:36  C-Junioren         CSC Paderborn - JSG Schlangen-Oesterholz-Kohlstädt
 13.12.2026 18:24  C-Junioren         CSC Paderborn - RSV Barntrup
 13.12.2026 19:00  C-Juniorinnen      DSC Arminia Bielefeld U14w (9er) (CM) - CSC Paderborn
+29.12.2026 14:12  B-Junioren         SF BW Paderborn - CSC Paderborn
+29.12.2026 15:00  B-Junioren         CSC Paderborn - SF DJK Mastbruch
+29.12.2026 15:48  B-Junioren         SC Borchen - CSC Paderborn
+29.12.2026 16:36  B-Junioren         CSC Paderborn - SV Marienloh
+29.12.2026 17:24  B-Junioren         CSC Paderborn - Delbrücker SC
+29.12.2026 18:00  B-Junioren         SV Heide-Paderborn - CSC Paderborn
 13.02.2027 13:00  Herren             CSC Paderborn - SC Ostenland
 19.02.2027 19:30  Herren             CSC Paderborn - Hövelhofer SV II
 28.02.2027 15:00  Herren             SCV Neuenbeken - CSC Paderborn
