@@ -1,8 +1,8 @@
-Lauf am 21.11.2026 12:54
+Lauf am 21.11.2026 21:48
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       58 gelesen,  58 neu,   0 vergangen
-  ajax.club.matchplan                       58 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       58 gelesen,  56 neu,   2 vergangen
+  ajax.club.matchplan                       58 gelesen,   0 neu,   2 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -10,21 +10,19 @@ Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
   Herren II             8 gelesen,  0 neu
   B-Junioren 9er        1 gelesen,  0 neu
-  C-Junioren            8 gelesen,  0 neu
-  D-Junioren            2 gelesen,  0 neu
-  D-Junioren II 7er     2 gelesen,  0 neu
+  C-Junioren            7 gelesen,  0 neu
+  D-Junioren            1 gelesen,  0 neu
+  D-Junioren II 7er     1 gelesen,  0 neu
   E-Junioren            1 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 58 kommende Spiele.
-Lade Spielstaetten fuer 58 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 58 von 58 Spielen.
-Datei kalender.ics geschrieben (58 Termine).
-Datei kalender-jugend.ics geschrieben (30 Termine).
+Insgesamt 56 kommende Spiele.
+Lade Spielstaetten fuer 56 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 56 von 56 Spielen.
+Datei kalender.ics geschrieben (56 Termine).
+Datei kalender-jugend.ics geschrieben (28 Termine).
 
 Gefundene Termine:
-20.11.2026 18:00  E-Junioren         CSC Paderborn - TuS Altenbeken
-20.11.2026 19:20  B-Junioren         JSG Mastbruch-Sennelager II - CSC Paderborn 9er
 21.11.2026 11:00  D-Junioren         CSC Paderborn II 7er - JSG Boke II 7er
 21.11.2026 13:30  D-Junioren         Delbrücker SC II - CSC Paderborn
 21.11.2026 13:30  C-Junioren         SC Grün-Weiß Paderborn II - CSC Paderborn
