@@ -1,8 +1,8 @@
-Lauf am 25.11.2026 14:48
+Lauf am 26.11.2026 00:35
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       53 gelesen,  53 neu,   0 vergangen
-  ajax.club.matchplan                       53 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       57 gelesen,  57 neu,   0 vergangen
+  ajax.club.matchplan                       57 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
   vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
 
@@ -12,15 +12,15 @@ Einzelabfragen zur Absicherung:
   B-Junioren 9er        1 gelesen,  0 neu
   C-Junioren            7 gelesen,  0 neu
   D-Junioren            1 gelesen,  0 neu
-  D-Junioren II 7er     1 gelesen,  0 neu
+  D-Junioren II 7er     5 gelesen,  0 neu
   E-Junioren            1 gelesen,  0 neu
   F-Junioren            0 gelesen,  0 neu
 
-Insgesamt 53 kommende Spiele.
-Lade Spielstaetten fuer 53 Spiele (dauert einige Minuten) ...
-Spielstaette bekannt bei 53 von 53 Spielen.
-Datei kalender.ics geschrieben (53 Termine).
-Datei kalender-jugend.ics geschrieben (25 Termine).
+Insgesamt 57 kommende Spiele.
+Lade Spielstaetten fuer 57 Spiele (dauert einige Minuten) ...
+Spielstaette bekannt bei 53 von 57 Spielen.
+Datei kalender.ics geschrieben (57 Termine).
+Datei kalender-jugend.ics geschrieben (29 Termine).
 
 Gefundene Termine:
 27.11.2026 17:30  D-Junioren         CSC Paderborn - TSV Wewer
@@ -28,6 +28,10 @@ Gefundene Termine:
 28.11.2026 11:00  E-Junioren         TV 1875 Paderborn - CSC Paderborn
 28.11.2026 13:00  C-Junioren         CSC Paderborn - JSG Holsen
 28.11.2026 15:00  B-Junioren         CSC Paderborn 9er - JSG Altenautal-Lichtenau
+28.11.2026 15:24  D-Junioren         CSC Paderborn II 7er - FC Gütersloh II 2
+28.11.2026 15:48  D-Junioren         SC Wiedenbrück II - CSC Paderborn II 7er
+28.11.2026 16:12  D-Junioren         CSC Paderborn II 7er - VfB Fichte Bielefeld II
+28.11.2026 16:36  D-Junioren         JFV Lippe 2 - CSC Paderborn II 7er
 29.11.2026 14:30  Herren             FC Kastrioti Stukenbrock - CSC Paderborn
 06.12.2026 15:00  Herren             Suryoye Paderborn - CSC Paderborn
 12.12.2026 14:30  C-Junioren         FSV Bad Wünnenberg-Leiberg - CSC Paderborn
