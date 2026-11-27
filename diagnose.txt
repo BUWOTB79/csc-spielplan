@@ -1,10 +1,10 @@
-Lauf am 27.11.2026 00:43
+Lauf am 27.11.2026 14:10
 
 Vereinsspielplan (alle Mannschaften auf einmal):
-  ajax.club.matchplan                       57 gelesen,  57 neu,   0 vergangen
-  ajax.club.matchplan                       57 gelesen,   0 neu,   0 vergangen
+  ajax.club.matchplan                       58 gelesen,  57 neu,   0 vergangen
+  ajax.club.matchplan                       58 gelesen,   0 neu,   0 vergangen
   ajax.club.next.games                      10 gelesen,   0 neu,   0 vergangen
-  vereinsspielplan.druck                     0 gelesen,   0 neu,   0 vergangen
+  vereinsspielplan.druck                     1 gelesen,   0 neu,   0 vergangen
 
 Einzelabfragen zur Absicherung:
   Herren               10 gelesen,  0 neu
@@ -24,7 +24,6 @@ Datei kalender-jugend.ics geschrieben (29 Termine).
 
 Gefundene Termine:
 27.11.2026 17:30  E-Junioren         TV 1875 Paderborn - CSC Paderborn
-27.11.2026 17:30  D-Junioren         CSC Paderborn - TSV Wewer
 28.11.2026 11:00  D-Junioren         JSG Alfen II 7er - CSC Paderborn II 7er
 28.11.2026 13:00  C-Junioren         CSC Paderborn - JSG Holsen
 28.11.2026 15:00  B-Junioren         CSC Paderborn 9er - JSG Altenautal-Lichtenau
@@ -33,6 +32,7 @@ Gefundene Termine:
 28.11.2026 16:12  D-Junioren         CSC Paderborn - VfB Fichte Bielefeld III
 28.11.2026 16:36  D-Junioren         JFV Lippe 2 - CSC Paderborn
 29.11.2026 14:30  Herren             FC Kastrioti Stukenbrock - CSC Paderborn
+01.12.2026 17:30  D-Junioren         CSC Paderborn - TSV Wewer
 06.12.2026 15:00  Herren             Suryoye Paderborn - CSC Paderborn
 12.12.2026 14:30  C-Junioren         FSV Bad Wünnenberg-Leiberg - CSC Paderborn
 12.12.2026 15:18  C-Junioren         JSG Weine - CSC Paderborn
